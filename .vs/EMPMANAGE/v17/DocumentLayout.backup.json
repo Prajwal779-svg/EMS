@@ -1,0 +1,592 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BC2696-1EC4-496C-9FAA-430EA7222489}|EMPMANAGE\\EMPMANAGE.csproj|e:\\monohawa\\employee_management_system\\empmanage\\empmanage\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BC2696-1EC4-496C-9FAA-430EA7222489}|EMPMANAGE\\EMPMANAGE.csproj|solutionrelative:empmanage\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4731DF0A-59D9-457E-853A-B2DAE75083EC}|EMPMANAGE.Database\\EMPMANAGE.Database.csproj|e:\\monohawa\\employee_management_system\\empmanage\\empmanage.database\\create_schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{4731DF0A-59D9-457E-853A-B2DAE75083EC}|EMPMANAGE.Database\\EMPMANAGE.Database.csproj|solutionrelative:empmanage.database\\create_schema.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4731DF0A-59D9-457E-853A-B2DAE75083EC}|EMPMANAGE.Database\\EMPMANAGE.Database.csproj|e:\\monohawa\\employee_management_system\\empmanage\\empmanage.database\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4731DF0A-59D9-457E-853A-B2DAE75083EC}|EMPMANAGE.Database\\EMPMANAGE.Database.csproj|solutionrelative:empmanage.database\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BC2696-1EC4-496C-9FAA-430EA7222489}|EMPMANAGE\\EMPMANAGE.csproj|e:\\monohawa\\employee_management_system\\empmanage\\empmanage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BC2696-1EC4-496C-9FAA-430EA7222489}|EMPMANAGE\\EMPMANAGE.csproj|solutionrelative:empmanage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BC2696-1EC4-496C-9FAA-430EA7222489}|EMPMANAGE\\EMPMANAGE.csproj|e:\\monohawa\\employee_management_system\\empmanage\\empmanage\\pages\\updateemployee.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BC2696-1EC4-496C-9FAA-430EA7222489}|EMPMANAGE\\EMPMANAGE.csproj|solutionrelative:empmanage\\pages\\updateemployee.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BC2696-1EC4-496C-9FAA-430EA7222489}|EMPMANAGE\\EMPMANAGE.csproj|e:\\monohawa\\employee_management_system\\empmanage\\empmanage\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5BC2696-1EC4-496C-9FAA-430EA7222489}|EMPMANAGE\\EMPMANAGE.csproj|solutionrelative:empmanage\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BC2696-1EC4-496C-9FAA-430EA7222489}|EMPMANAGE\\EMPMANAGE.csproj|e:\\monohawa\\employee_management_system\\empmanage\\empmanage\\pages\\addemployee.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BC2696-1EC4-496C-9FAA-430EA7222489}|EMPMANAGE\\EMPMANAGE.csproj|solutionrelative:empmanage\\pages\\addemployee.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BC2696-1EC4-496C-9FAA-430EA7222489}|EMPMANAGE\\EMPMANAGE.csproj|e:\\monohawa\\employee_management_system\\empmanage\\empmanage\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BC2696-1EC4-496C-9FAA-430EA7222489}|EMPMANAGE\\EMPMANAGE.csproj|solutionrelative:empmanage\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BC2696-1EC4-496C-9FAA-430EA7222489}|EMPMANAGE\\EMPMANAGE.csproj|e:\\monohawa\\employee_management_system\\empmanage\\empmanage\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BC2696-1EC4-496C-9FAA-430EA7222489}|EMPMANAGE\\EMPMANAGE.csproj|solutionrelative:empmanage\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BC2696-1EC4-496C-9FAA-430EA7222489}|EMPMANAGE\\EMPMANAGE.csproj|e:\\monohawa\\employee_management_system\\empmanage\\empmanage\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BC2696-1EC4-496C-9FAA-430EA7222489}|EMPMANAGE\\EMPMANAGE.csproj|solutionrelative:empmanage\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BC2696-1EC4-496C-9FAA-430EA7222489}|EMPMANAGE\\EMPMANAGE.csproj|e:\\monohawa\\employee_management_system\\empmanage\\empmanage\\pages\\updateemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5BC2696-1EC4-496C-9FAA-430EA7222489}|EMPMANAGE\\EMPMANAGE.csproj|solutionrelative:empmanage\\pages\\updateemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BC2696-1EC4-496C-9FAA-430EA7222489}|EMPMANAGE\\EMPMANAGE.csproj|e:\\monohawa\\employee_management_system\\empmanage\\empmanage\\pages\\accounts\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BC2696-1EC4-496C-9FAA-430EA7222489}|EMPMANAGE\\EMPMANAGE.csproj|solutionrelative:empmanage\\pages\\accounts\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BC2696-1EC4-496C-9FAA-430EA7222489}|EMPMANAGE\\EMPMANAGE.csproj|e:\\monohawa\\employee_management_system\\empmanage\\empmanage\\pages\\accounts\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5BC2696-1EC4-496C-9FAA-430EA7222489}|EMPMANAGE\\EMPMANAGE.csproj|solutionrelative:empmanage\\pages\\accounts\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BC2696-1EC4-496C-9FAA-430EA7222489}|EMPMANAGE\\EMPMANAGE.csproj|e:\\monohawa\\employee_management_system\\empmanage\\empmanage\\pages\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5BC2696-1EC4-496C-9FAA-430EA7222489}|EMPMANAGE\\EMPMANAGE.csproj|solutionrelative:empmanage\\pages\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BC2696-1EC4-496C-9FAA-430EA7222489}|EMPMANAGE\\EMPMANAGE.csproj|e:\\monohawa\\employee_management_system\\empmanage\\empmanage\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5BC2696-1EC4-496C-9FAA-430EA7222489}|EMPMANAGE\\EMPMANAGE.csproj|solutionrelative:empmanage\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BC2696-1EC4-496C-9FAA-430EA7222489}|EMPMANAGE\\EMPMANAGE.csproj|e:\\monohawa\\employee_management_system\\empmanage\\empmanage\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5BC2696-1EC4-496C-9FAA-430EA7222489}|EMPMANAGE\\EMPMANAGE.csproj|solutionrelative:empmanage\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BC2696-1EC4-496C-9FAA-430EA7222489}|EMPMANAGE\\EMPMANAGE.csproj|e:\\monohawa\\employee_management_system\\empmanage\\empmanage\\empmanage.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E5BC2696-1EC4-496C-9FAA-430EA7222489}|EMPMANAGE\\EMPMANAGE.csproj|solutionrelative:empmanage\\empmanage.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BC2696-1EC4-496C-9FAA-430EA7222489}|EMPMANAGE\\EMPMANAGE.csproj|e:\\monohawa\\employee_management_system\\empmanage\\empmanage\\serviceregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BC2696-1EC4-496C-9FAA-430EA7222489}|EMPMANAGE\\EMPMANAGE.csproj|solutionrelative:empmanage\\serviceregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3C8CC5-8431-4EB5-80D0-02CDA1559BA1}|EMPMANAGE.Domain\\EMPMANAGE.Domain.csproj|e:\\monohawa\\employee_management_system\\empmanage\\empmanage.domain\\infrastructure\\iemployeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A3C8CC5-8431-4EB5-80D0-02CDA1559BA1}|EMPMANAGE.Domain\\EMPMANAGE.Domain.csproj|solutionrelative:empmanage.domain\\infrastructure\\iemployeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BC2696-1EC4-496C-9FAA-430EA7222489}|EMPMANAGE\\EMPMANAGE.csproj|e:\\monohawa\\employee_management_system\\empmanage\\empmanage\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5BC2696-1EC4-496C-9FAA-430EA7222489}|EMPMANAGE\\EMPMANAGE.csproj|solutionrelative:empmanage\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BC2696-1EC4-496C-9FAA-430EA7222489}|EMPMANAGE\\EMPMANAGE.csproj|e:\\monohawa\\employee_management_system\\empmanage\\empmanage\\pages\\accounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5BC2696-1EC4-496C-9FAA-430EA7222489}|EMPMANAGE\\EMPMANAGE.csproj|solutionrelative:empmanage\\pages\\accounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CE02F9-EBA0-4009-AEB2-4C2C0BFAE5A2}|EMPMANAGE.Application\\EMPMANAGE.Application.csproj|e:\\monohawa\\employee_management_system\\empmanage\\empmanage.application\\employeemng\\updateemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CE02F9-EBA0-4009-AEB2-4C2C0BFAE5A2}|EMPMANAGE.Application\\EMPMANAGE.Application.csproj|solutionrelative:empmanage.application\\employeemng\\updateemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BC2696-1EC4-496C-9FAA-430EA7222489}|EMPMANAGE\\EMPMANAGE.csproj|e:\\monohawa\\employee_management_system\\empmanage\\empmanage\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5BC2696-1EC4-496C-9FAA-430EA7222489}|EMPMANAGE\\EMPMANAGE.csproj|solutionrelative:empmanage\\pages\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CE02F9-EBA0-4009-AEB2-4C2C0BFAE5A2}|EMPMANAGE.Application\\EMPMANAGE.Application.csproj|e:\\monohawa\\employee_management_system\\empmanage\\empmanage.application\\employeemng\\deleteemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CE02F9-EBA0-4009-AEB2-4C2C0BFAE5A2}|EMPMANAGE.Application\\EMPMANAGE.Application.csproj|solutionrelative:empmanage.application\\employeemng\\deleteemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CE02F9-EBA0-4009-AEB2-4C2C0BFAE5A2}|EMPMANAGE.Application\\EMPMANAGE.Application.csproj|e:\\monohawa\\employee_management_system\\empmanage\\empmanage.application\\employeemng\\createemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CE02F9-EBA0-4009-AEB2-4C2C0BFAE5A2}|EMPMANAGE.Application\\EMPMANAGE.Application.csproj|solutionrelative:empmanage.application\\employeemng\\createemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4731DF0A-59D9-457E-853A-B2DAE75083EC}|EMPMANAGE.Database\\EMPMANAGE.Database.csproj|e:\\monohawa\\employee_management_system\\empmanage\\empmanage.database\\empdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4731DF0A-59D9-457E-853A-B2DAE75083EC}|EMPMANAGE.Database\\EMPMANAGE.Database.csproj|solutionrelative:empmanage.database\\empdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3C8CC5-8431-4EB5-80D0-02CDA1559BA1}|EMPMANAGE.Domain\\EMPMANAGE.Domain.csproj|e:\\monohawa\\employee_management_system\\empmanage\\empmanage.domain\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A3C8CC5-8431-4EB5-80D0-02CDA1559BA1}|EMPMANAGE.Domain\\EMPMANAGE.Domain.csproj|solutionrelative:empmanage.domain\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CE02F9-EBA0-4009-AEB2-4C2C0BFAE5A2}|EMPMANAGE.Application\\EMPMANAGE.Application.csproj|e:\\monohawa\\employee_management_system\\empmanage\\empmanage.application\\employeemng\\getemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CE02F9-EBA0-4009-AEB2-4C2C0BFAE5A2}|EMPMANAGE.Application\\EMPMANAGE.Application.csproj|solutionrelative:empmanage.application\\employeemng\\getemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CE02F9-EBA0-4009-AEB2-4C2C0BFAE5A2}|EMPMANAGE.Application\\EMPMANAGE.Application.csproj|e:\\monohawa\\employee_management_system\\empmanage\\empmanage.application\\employeemng\\getemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CE02F9-EBA0-4009-AEB2-4C2C0BFAE5A2}|EMPMANAGE.Application\\EMPMANAGE.Application.csproj|solutionrelative:empmanage.application\\employeemng\\getemployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BC2696-1EC4-496C-9FAA-430EA7222489}|EMPMANAGE\\EMPMANAGE.csproj|e:\\monohawa\\employee_management_system\\empmanage\\empmanage\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E5BC2696-1EC4-496C-9FAA-430EA7222489}|EMPMANAGE\\EMPMANAGE.csproj|solutionrelative:empmanage\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EmpMANAGE/True/SqlTable/dbo.Employees.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CE02F9-EBA0-4009-AEB2-4C2C0BFAE5A2}|EMPMANAGE.Application\\EMPMANAGE.Application.csproj|e:\\monohawa\\employee_management_system\\empmanage\\empmanage.application\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CE02F9-EBA0-4009-AEB2-4C2C0BFAE5A2}|EMPMANAGE.Application\\EMPMANAGE.Application.csproj|solutionrelative:empmanage.application\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A3C8CC5-8431-4EB5-80D0-02CDA1559BA1}|EMPMANAGE.Domain\\EMPMANAGE.Domain.csproj|e:\\monohawa\\employee_management_system\\empmanage\\empmanage.domain\\empmanage.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1A3C8CC5-8431-4EB5-80D0-02CDA1559BA1}|EMPMANAGE.Domain\\EMPMANAGE.Domain.csproj|solutionrelative:empmanage.domain\\empmanage.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BC2696-1EC4-496C-9FAA-430EA7222489}|EMPMANAGE\\EMPMANAGE.csproj|e:\\monohawa\\employee_management_system\\empmanage\\empmanage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E5BC2696-1EC4-496C-9FAA-430EA7222489}|EMPMANAGE\\EMPMANAGE.csproj|solutionrelative:empmanage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BC2696-1EC4-496C-9FAA-430EA7222489}|EMPMANAGE\\EMPMANAGE.csproj|e:\\monohawa\\employee_management_system\\empmanage\\empmanage\\pages\\accounts\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5BC2696-1EC4-496C-9FAA-430EA7222489}|EMPMANAGE\\EMPMANAGE.csproj|solutionrelative:empmanage\\pages\\accounts\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30CE02F9-EBA0-4009-AEB2-4C2C0BFAE5A2}|EMPMANAGE.Application\\EMPMANAGE.Application.csproj|e:\\monohawa\\employee_management_system\\empmanage\\empmanage.application\\empmanage.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{30CE02F9-EBA0-4009-AEB2-4C2C0BFAE5A2}|EMPMANAGE.Application\\EMPMANAGE.Application.csproj|solutionrelative:empmanage.application\\empmanage.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "create_schema.sql",
+              "DocumentMoniker": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE.Database\\create_schema.sql",
+              "RelativeDocumentMoniker": "EMPMANAGE.Database\\create_schema.sql",
+              "ToolTip": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE.Database\\create_schema.sql",
+              "RelativeToolTip": "EMPMANAGE.Database\\create_schema.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-28T16:00:05.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "EMPMANAGE\\Pages\\Index.cshtml.cs",
+              "ToolTip": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "EMPMANAGE\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T14:54:17.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeManager.cs",
+              "DocumentMoniker": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE.Database\\EmployeeManager.cs",
+              "RelativeDocumentMoniker": "EMPMANAGE.Database\\EmployeeManager.cs",
+              "ToolTip": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE.Database\\EmployeeManager.cs",
+              "RelativeToolTip": "EMPMANAGE.Database\\EmployeeManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T19:21:20.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateEmployee.cshtml.cs",
+              "DocumentMoniker": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE\\Pages\\UpdateEmployee.cshtml.cs",
+              "RelativeDocumentMoniker": "EMPMANAGE\\Pages\\UpdateEmployee.cshtml.cs",
+              "ToolTip": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE\\Pages\\UpdateEmployee.cshtml.cs",
+              "RelativeToolTip": "EMPMANAGE\\Pages\\UpdateEmployee.cshtml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T19:35:38.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE\\Pages\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "EMPMANAGE\\Pages\\Register.cshtml.cs",
+              "ToolTip": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE\\Pages\\Register.cshtml.cs",
+              "RelativeToolTip": "EMPMANAGE\\Pages\\Register.cshtml.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAkwEAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T09:23:22.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "EMPMANAGE\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE\\Controllers\\UserController.cs",
+              "RelativeToolTip": "EMPMANAGE\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T22:05:20.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EMPMANAGE\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EMPMANAGE\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACcAAAAAAAAAAADwv0EAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T09:02:53.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE\\Program.cs",
+              "RelativeDocumentMoniker": "EMPMANAGE\\Program.cs",
+              "ToolTip": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE\\Program.cs",
+              "RelativeToolTip": "EMPMANAGE\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvyUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T11:32:23.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddEmployee.cshtml.cs",
+              "DocumentMoniker": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE\\Pages\\AddEmployee.cshtml.cs",
+              "RelativeDocumentMoniker": "EMPMANAGE\\Pages\\AddEmployee.cshtml.cs",
+              "ToolTip": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE\\Pages\\AddEmployee.cshtml.cs",
+              "RelativeToolTip": "EMPMANAGE\\Pages\\AddEmployee.cshtml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA5wBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T18:15:32.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "EMPMANAGE\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "EMPMANAGE\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T06:59:54.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UpdateEmployee.cshtml",
+              "DocumentMoniker": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE\\Pages\\UpdateEmployee.cshtml",
+              "RelativeDocumentMoniker": "EMPMANAGE\\Pages\\UpdateEmployee.cshtml",
+              "ToolTip": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE\\Pages\\UpdateEmployee.cshtml",
+              "RelativeToolTip": "EMPMANAGE\\Pages\\UpdateEmployee.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwDIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T19:31:55.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE\\Pages\\Accounts\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "EMPMANAGE\\Pages\\Accounts\\Logout.cshtml.cs",
+              "ToolTip": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE\\Pages\\Accounts\\Logout.cshtml.cs",
+              "RelativeToolTip": "EMPMANAGE\\Pages\\Accounts\\Logout.cshtml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwB4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T20:45:17.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE\\Pages\\Accounts\\Logout.cshtml",
+              "RelativeDocumentMoniker": "EMPMANAGE\\Pages\\Accounts\\Logout.cshtml",
+              "ToolTip": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE\\Pages\\Accounts\\Logout.cshtml",
+              "RelativeToolTip": "EMPMANAGE\\Pages\\Accounts\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T20:44:41.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddEmployee.cshtml",
+              "DocumentMoniker": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE\\Pages\\AddEmployee.cshtml",
+              "RelativeDocumentMoniker": "EMPMANAGE\\Pages\\AddEmployee.cshtml",
+              "ToolTip": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE\\Pages\\AddEmployee.cshtml",
+              "RelativeToolTip": "EMPMANAGE\\Pages\\AddEmployee.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAADwvz4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T18:13:30.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE\\Pages\\Register.cshtml",
+              "RelativeDocumentMoniker": "EMPMANAGE\\Pages\\Register.cshtml",
+              "ToolTip": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE\\Pages\\Register.cshtml",
+              "RelativeToolTip": "EMPMANAGE\\Pages\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T09:22:55.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "EMPMANAGE\\Pages\\Index.cshtml",
+              "ToolTip": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE\\Pages\\Index.cshtml",
+              "RelativeToolTip": "EMPMANAGE\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvxoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T10:17:07.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ServiceRegister.cs",
+              "DocumentMoniker": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE\\ServiceRegister.cs",
+              "RelativeDocumentMoniker": "EMPMANAGE\\ServiceRegister.cs",
+              "ToolTip": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE\\ServiceRegister.cs",
+              "RelativeToolTip": "EMPMANAGE\\ServiceRegister.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:36:29.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EMPMANAGE.csproj",
+              "DocumentMoniker": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE\\EMPMANAGE.csproj",
+              "RelativeDocumentMoniker": "EMPMANAGE\\EMPMANAGE.csproj",
+              "ToolTip": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE\\EMPMANAGE.csproj",
+              "RelativeToolTip": "EMPMANAGE\\EMPMANAGE.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-25T14:15:38.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IEmployeeManager.cs",
+              "DocumentMoniker": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE.Domain\\Infrastructure\\IEmployeeManager.cs",
+              "RelativeDocumentMoniker": "EMPMANAGE.Domain\\Infrastructure\\IEmployeeManager.cs",
+              "ToolTip": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE.Domain\\Infrastructure\\IEmployeeManager.cs",
+              "RelativeToolTip": "EMPMANAGE.Domain\\Infrastructure\\IEmployeeManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T18:58:34.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE\\Pages\\Accounts\\Login.cshtml",
+              "RelativeDocumentMoniker": "EMPMANAGE\\Pages\\Accounts\\Login.cshtml",
+              "ToolTip": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE\\Pages\\Accounts\\Login.cshtml",
+              "RelativeToolTip": "EMPMANAGE\\Pages\\Accounts\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T09:32:29.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "EMPMANAGE\\Pages\\Privacy.cshtml",
+              "ToolTip": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "EMPMANAGE\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T19:49:35.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpdateEmployee.cs",
+              "DocumentMoniker": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE.Application\\EmployeeMng\\UpdateEmployee.cs",
+              "RelativeDocumentMoniker": "EMPMANAGE.Application\\EmployeeMng\\UpdateEmployee.cs",
+              "ToolTip": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE.Application\\EmployeeMng\\UpdateEmployee.cs",
+              "RelativeToolTip": "EMPMANAGE.Application\\EmployeeMng\\UpdateEmployee.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA4wBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T19:21:39.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EmpDbContext.cs",
+              "DocumentMoniker": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE.Database\\EmpDbContext.cs",
+              "RelativeDocumentMoniker": "EMPMANAGE.Database\\EmpDbContext.cs",
+              "ToolTip": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE.Database\\EmpDbContext.cs",
+              "RelativeToolTip": "EMPMANAGE.Database\\EmpDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T18:44:43.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "EMPMANAGE\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "EMPMANAGE\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T20:52:54.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CreateEmployee.cs",
+              "DocumentMoniker": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE.Application\\EmployeeMng\\CreateEmployee.cs",
+              "RelativeDocumentMoniker": "EMPMANAGE.Application\\EmployeeMng\\CreateEmployee.cs",
+              "ToolTip": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE.Application\\EmployeeMng\\CreateEmployee.cs",
+              "RelativeToolTip": "EMPMANAGE.Application\\EmployeeMng\\CreateEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T08:47:56.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DeleteEmployee.cs",
+              "DocumentMoniker": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE.Application\\EmployeeMng\\DeleteEmployee.cs",
+              "RelativeDocumentMoniker": "EMPMANAGE.Application\\EmployeeMng\\DeleteEmployee.cs",
+              "ToolTip": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE.Application\\EmployeeMng\\DeleteEmployee.cs",
+              "RelativeToolTip": "EMPMANAGE.Application\\EmployeeMng\\DeleteEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T18:35:26.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE.Domain\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EMPMANAGE.Domain\\Models\\Employee.cs",
+              "ToolTip": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE.Domain\\Models\\Employee.cs",
+              "RelativeToolTip": "EMPMANAGE.Domain\\Models\\Employee.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwCAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T13:31:25.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GetEmployee.cs",
+              "DocumentMoniker": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE.Application\\EmployeeMng\\GetEmployee.cs",
+              "RelativeDocumentMoniker": "EMPMANAGE.Application\\EmployeeMng\\GetEmployee.cs",
+              "ToolTip": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE.Application\\EmployeeMng\\GetEmployee.cs",
+              "RelativeToolTip": "EMPMANAGE.Application\\EmployeeMng\\GetEmployee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAcwBkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T20:00:52.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GetEmployees.cs",
+              "DocumentMoniker": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE.Application\\EmployeeMng\\GetEmployees.cs",
+              "RelativeDocumentMoniker": "EMPMANAGE.Application\\EmployeeMng\\GetEmployees.cs",
+              "ToolTip": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE.Application\\EmployeeMng\\GetEmployees.cs",
+              "RelativeToolTip": "EMPMANAGE.Application\\EmployeeMng\\GetEmployees.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T15:07:33.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "EMPMANAGE\\Pages\\Error.cshtml",
+              "ToolTip": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE\\Pages\\Error.cshtml",
+              "RelativeToolTip": "EMPMANAGE\\Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T18:41:47.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Service.cs",
+              "DocumentMoniker": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE.Application\\Service.cs",
+              "RelativeDocumentMoniker": "EMPMANAGE.Application\\Service.cs",
+              "ToolTip": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE.Application\\Service.cs",
+              "RelativeToolTip": "EMPMANAGE.Application\\Service.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T08:45:43.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "dbo.Employees.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EmpMANAGE/True/SqlTable/dbo.Employees.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/EmpMANAGE/True/SqlTable/dbo.Employees.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-06-26T16:14:53.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "EMPMANAGE.Domain.csproj",
+              "DocumentMoniker": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE.Domain\\EMPMANAGE.Domain.csproj",
+              "RelativeDocumentMoniker": "EMPMANAGE.Domain\\EMPMANAGE.Domain.csproj",
+              "ToolTip": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE.Domain\\EMPMANAGE.Domain.csproj",
+              "RelativeToolTip": "EMPMANAGE.Domain\\EMPMANAGE.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-25T12:24:39.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "EMPMANAGE.Application.csproj",
+              "DocumentMoniker": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE.Application\\EMPMANAGE.Application.csproj",
+              "RelativeDocumentMoniker": "EMPMANAGE.Application\\EMPMANAGE.Application.csproj",
+              "ToolTip": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE.Application\\EMPMANAGE.Application.csproj",
+              "RelativeToolTip": "EMPMANAGE.Application\\EMPMANAGE.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-26T08:45:26.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE\\appsettings.json",
+              "RelativeDocumentMoniker": "EMPMANAGE\\appsettings.json",
+              "ToolTip": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE\\appsettings.json",
+              "RelativeToolTip": "EMPMANAGE\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-25T19:14:46.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE\\Pages\\Accounts\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "EMPMANAGE\\Pages\\Accounts\\Login.cshtml.cs",
+              "ToolTip": "E:\\MonoHawa\\Employee_Management_System\\EMPMANAGE\\EMPMANAGE\\Pages\\Accounts\\Login.cshtml.cs",
+              "RelativeToolTip": "EMPMANAGE\\Pages\\Accounts\\Login.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T09:32:50.868Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

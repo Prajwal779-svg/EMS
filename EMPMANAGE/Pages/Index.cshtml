@@ -1,0 +1,55 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+
+<h1 class="title has-text-centered">Employee Details</h1>
+
+
+<div class="container">
+    <div class="content">
+
+        <table class="table is-bordered is-hoverable is-centered">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Email</th>
+                    <th>Department</th>
+                    <th>Position</th>
+                    <th>Salary</th>
+                    <th>HireDate</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody id="employeeList">
+                @foreach (var employee in Model.Employees)
+                {
+                    <tr>
+                        <td>@employee.Name</td>
+                        <td>@employee.Email</td>
+                        <td>@employee.Department</td>
+                        <td>@employee.Position</td>
+                        <td>@employee.Salary</td>
+                        <td>@employee.HireDate</td>
+
+                        <td>
+                            <div class="buttons">
+                                <!-- Edit Button (regular link) -->
+                                <a class="button is-small is-primary" asp-page="UpdateEmployee" asp-route-id="@employee.Id">
+                                    Edit
+                                </a>
+
+                                <!-- Delete Button (form submission) -->
+                                <form method="post" asp-page-handler="Delete" asp-route-id="@employee.Id" class="is-inline-block">
+                                    <button type="submit" class="button is-small is-danger"
+                                            onclick="return confirm('Are you sure you want to delete?')">
+                                        Delete
+                                    </button>
+                                </form>
+                            </div>
+                        </td>
+                    </tr>
+                }
+            </tbody>

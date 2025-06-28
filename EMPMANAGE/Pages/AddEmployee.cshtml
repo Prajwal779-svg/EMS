@@ -1,0 +1,63 @@
+﻿@page
+@model EMPMANAGE.Pages.AddEmployeeModel
+@{
+}
+<div class="columns">
+    <div class="column is-6">
+        <form method="post">
+
+            <div class="field">
+                <p class="control">
+
+                    <label asp-for="request.Name">Employee Name:</label>
+                    <input asp-for="request.Name" type="text" class="input" id="Name" />
+                </p>
+                <span class="help is-danger" asp-validation-for="request.Name"></span>
+            </div>
+            <div class="field">
+                <p class="control">
+
+                    <label asp-for="request.Email">Employee Email:</label>
+                    <input asp-for="request.Email" type="email" class="input" id="Email" />
+                </p>
+                <span class="help is-danger" asp-validation-for="request.Email"></span>
+            </div>
+
+            <div class="field">
+                <p class="control">
+
+                    <label asp-for="request.Department">Department:</label>
+                    <input asp-for="request.Department" type="text" class="input" id="ToDo" />
+                </p>
+                <span class="help is-danger" asp-validation-for="request.Department"></span>
+            </div>
+            <div class="field">
+                <p class="control">
+
+                    <label asp-for="request.Position">Position:</label>
+                    <input asp-for="request.Position" type="text" class="input" id="ToDo" />
+                </p>
+                <span class="help is-danger" asp-validation-for="request.Position"></span>
+            </div>
+            <div class="field">
+                <p class="control">
+
+                    <label asp-for="request.Position">Salary:</label>
+                    <input asp-for="request.Position" type="text" class="input" id="ToDo" />
+                </p>
+                <span class="help is-danger" asp-validation-for="request.Salary"></span>
+            </div>
+            <div class="field">
+                <p class="control">
+
+                    <label asp-for="request.HireDate">HireDate:</label>
+                    <input asp-for="request.HireDate" type="text" class="input" id="ToDo" />
+                </p>
+                <span class="help is-danger" asp-validation-for="request.HireDate"></span>
+            </div>
+            <div class="field">
+                <button class="button is-success" type="submit">Create Employee</button>
+            </div>
+        </form>
+    </div>
+</div>

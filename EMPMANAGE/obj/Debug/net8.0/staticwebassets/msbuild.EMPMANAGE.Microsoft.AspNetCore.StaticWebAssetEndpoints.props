@@ -1,0 +1,1264 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/css/site.c2tiyv64ts.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"c2tiyv64ts"},{"Name":"integrity","Value":"sha256-pAGv4ietcJNk/EwsQZ5BN9\u002BK4MuNYS2a9wl4Jw\u002Bq9D0="},{"Name":"label","Value":"_content/EMPMANAGE/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"362"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022pAGv4ietcJNk/EwsQZ5BN9\u002BK4MuNYS2a9wl4Jw\u002Bq9D0=\u0022"},{"Name":"Last-Modified","Value":"Wed, 25 Jun 2025 11:32:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/css/site.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-pAGv4ietcJNk/EwsQZ5BN9\u002BK4MuNYS2a9wl4Jw\u002Bq9D0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"362"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022pAGv4ietcJNk/EwsQZ5BN9\u002BK4MuNYS2a9wl4Jw\u002Bq9D0=\u0022"},{"Name":"Last-Modified","Value":"Wed, 25 Jun 2025 11:32:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/EMPMANAGE.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\EMPMANAGE.zm3zou4utj.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-1fIfya/7l7eXYFo6kUCpsZk4jJt515KnI7GoZ8EvzG0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1127"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00221fIfya/7l7eXYFo6kUCpsZk4jJt515KnI7GoZ8EvzG0=\u0022"},{"Name":"Last-Modified","Value":"Wed, 25 Jun 2025 14:15:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/EMPMANAGE.zm3zou4utj.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\EMPMANAGE.zm3zou4utj.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zm3zou4utj"},{"Name":"integrity","Value":"sha256-1fIfya/7l7eXYFo6kUCpsZk4jJt515KnI7GoZ8EvzG0="},{"Name":"label","Value":"_content/EMPMANAGE/EMPMANAGE.bundle.scp.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1127"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00221fIfya/7l7eXYFo6kUCpsZk4jJt515KnI7GoZ8EvzG0=\u0022"},{"Name":"Last-Modified","Value":"Wed, 25 Jun 2025 14:15:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/favicon.61n19gt1b8.ico">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"61n19gt1b8"},{"Name":"integrity","Value":"sha256-Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="},{"Name":"label","Value":"_content/EMPMANAGE/favicon.ico"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5430"},{"Name":"Content-Type","Value":"image/x-icon"},{"Name":"ETag","Value":"\u0022Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 25 Jun 2025 11:32:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/favicon.ico">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5430"},{"Name":"Content-Type","Value":"image/x-icon"},{"Name":"ETag","Value":"\u0022Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 25 Jun 2025 11:32:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/js/site.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"231"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\u0022"},{"Name":"Last-Modified","Value":"Wed, 25 Jun 2025 11:32:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/js/site.xtxxf3hu2r.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xtxxf3hu2r"},{"Name":"integrity","Value":"sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="},{"Name":"label","Value":"_content/EMPMANAGE/js/site.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"231"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\u0022"},{"Name":"Last-Modified","Value":"Wed, 25 Jun 2025 11:32:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/bulma.bt1shmpqiq.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\bulma.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bt1shmpqiq"},{"Name":"integrity","Value":"sha256-0S75CTsyY5LIPf4lRORv3EJ0gvHnypy\u002BBUzLXPVNb48="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/bulma.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"95"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u00220S75CTsyY5LIPf4lRORv3EJ0gvHnypy\u002BBUzLXPVNb48=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/bulma.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\bulma.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-0S75CTsyY5LIPf4lRORv3EJ0gvHnypy\u002BBUzLXPVNb48="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"95"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u00220S75CTsyY5LIPf4lRORv3EJ0gvHnypy\u002BBUzLXPVNb48=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/css/bulma.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\css\bulma.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-7mYxbCSi9ilxkTvOUOEIRzSbnNbQVTjKVIJVibdbWQE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"763923"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00227mYxbCSi9ilxkTvOUOEIRzSbnNbQVTjKVIJVibdbWQE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/css/bulma.css.bqwfqhfl0f.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\css\bulma.css.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bqwfqhfl0f"},{"Name":"integrity","Value":"sha256-jT7803wxktvxDmz4y8KVhbqQfsNk8Xbf0d7tAhfPKWE="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/css/bulma.css.map"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"92785"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022jT7803wxktvxDmz4y8KVhbqQfsNk8Xbf0d7tAhfPKWE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/css/bulma.css.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\css\bulma.css.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-jT7803wxktvxDmz4y8KVhbqQfsNk8Xbf0d7tAhfPKWE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"92785"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022jT7803wxktvxDmz4y8KVhbqQfsNk8Xbf0d7tAhfPKWE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/css/bulma.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\css\bulma.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Z/om3xyp6V2PKtx8BPobFfo9JCV0cOvBDMaLmquRS\u002B4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"677931"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Z/om3xyp6V2PKtx8BPobFfo9JCV0cOvBDMaLmquRS\u002B4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/css/bulma.min.h244cvzee5.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\css\bulma.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"h244cvzee5"},{"Name":"integrity","Value":"sha256-Z/om3xyp6V2PKtx8BPobFfo9JCV0cOvBDMaLmquRS\u002B4="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/css/bulma.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"677931"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022Z/om3xyp6V2PKtx8BPobFfo9JCV0cOvBDMaLmquRS\u002B4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/css/bulma.u8fnyearl2.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\css\bulma.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"u8fnyearl2"},{"Name":"integrity","Value":"sha256-7mYxbCSi9ilxkTvOUOEIRzSbnNbQVTjKVIJVibdbWQE="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/css/bulma.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"763923"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00227mYxbCSi9ilxkTvOUOEIRzSbnNbQVTjKVIJVibdbWQE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/css/versions/bulma-no-dark-mode.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\css\versions\bulma-no-dark-mode.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-6\u002BOVSE2yazBCPHGgwSMYTCMkXDMZBkfLlTb5OfrxbaQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"629714"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00226\u002BOVSE2yazBCPHGgwSMYTCMkXDMZBkfLlTb5OfrxbaQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/css/versions/bulma-no-dark-mode.css.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\css\versions\bulma-no-dark-mode.css.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-L35zDWgm648kYU4c6OVofQaVL56jLyzljXxeDcvfp8o="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"83434"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022L35zDWgm648kYU4c6OVofQaVL56jLyzljXxeDcvfp8o=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/css/versions/bulma-no-dark-mode.css.nyhh1ubudg.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\css\versions\bulma-no-dark-mode.css.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"nyhh1ubudg"},{"Name":"integrity","Value":"sha256-L35zDWgm648kYU4c6OVofQaVL56jLyzljXxeDcvfp8o="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/css/versions/bulma-no-dark-mode.css.map"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"83434"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022L35zDWgm648kYU4c6OVofQaVL56jLyzljXxeDcvfp8o=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/css/versions/bulma-no-dark-mode.jyh0tv70r0.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\css\versions\bulma-no-dark-mode.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jyh0tv70r0"},{"Name":"integrity","Value":"sha256-6\u002BOVSE2yazBCPHGgwSMYTCMkXDMZBkfLlTb5OfrxbaQ="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/css/versions/bulma-no-dark-mode.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"629714"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00226\u002BOVSE2yazBCPHGgwSMYTCMkXDMZBkfLlTb5OfrxbaQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/css/versions/bulma-no-dark-mode.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\css\versions\bulma-no-dark-mode.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-8cPtePqSoSA/VkSBJ2fy4P9Z/99ulKlwEe6\u002BisOsVk4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"556058"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00228cPtePqSoSA/VkSBJ2fy4P9Z/99ulKlwEe6\u002BisOsVk4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/css/versions/bulma-no-dark-mode.min.h80flgyyun.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\css\versions\bulma-no-dark-mode.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"h80flgyyun"},{"Name":"integrity","Value":"sha256-8cPtePqSoSA/VkSBJ2fy4P9Z/99ulKlwEe6\u002BisOsVk4="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/css/versions/bulma-no-dark-mode.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"556058"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00228cPtePqSoSA/VkSBJ2fy4P9Z/99ulKlwEe6\u002BisOsVk4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/css/versions/bulma-no-helpers-prefixed.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\css\versions\bulma-no-helpers-prefixed.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-O6y9KI1WxUrfVMGU3CnEQV58gok0FJxaIUDJ83o9k8U="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"571382"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022O6y9KI1WxUrfVMGU3CnEQV58gok0FJxaIUDJ83o9k8U=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/css/versions/bulma-no-helpers-prefixed.css.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\css\versions\bulma-no-helpers-prefixed.css.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vWLGhIKOIRb9QjfJ3/CPhuJf5VYptx0me28uwLkfKGg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"67179"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022vWLGhIKOIRb9QjfJ3/CPhuJf5VYptx0me28uwLkfKGg=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/css/versions/bulma-no-helpers-prefixed.css.vths8vjpwz.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\css\versions\bulma-no-helpers-prefixed.css.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vths8vjpwz"},{"Name":"integrity","Value":"sha256-vWLGhIKOIRb9QjfJ3/CPhuJf5VYptx0me28uwLkfKGg="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/css/versions/bulma-no-helpers-prefixed.css.map"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"67179"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022vWLGhIKOIRb9QjfJ3/CPhuJf5VYptx0me28uwLkfKGg=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/css/versions/bulma-no-helpers-prefixed.htqwwpijf8.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\css\versions\bulma-no-helpers-prefixed.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"htqwwpijf8"},{"Name":"integrity","Value":"sha256-O6y9KI1WxUrfVMGU3CnEQV58gok0FJxaIUDJ83o9k8U="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/css/versions/bulma-no-helpers-prefixed.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"571382"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022O6y9KI1WxUrfVMGU3CnEQV58gok0FJxaIUDJ83o9k8U=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/css/versions/bulma-no-helpers-prefixed.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\css\versions\bulma-no-helpers-prefixed.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ASf95caVlm9tDxjwOBZjdboUt3yd\u002B09OToUXMpUKSos="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"510058"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022ASf95caVlm9tDxjwOBZjdboUt3yd\u002B09OToUXMpUKSos=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/css/versions/bulma-no-helpers-prefixed.min.l349i2lfup.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\css\versions\bulma-no-helpers-prefixed.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"l349i2lfup"},{"Name":"integrity","Value":"sha256-ASf95caVlm9tDxjwOBZjdboUt3yd\u002B09OToUXMpUKSos="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/css/versions/bulma-no-helpers-prefixed.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"510058"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022ASf95caVlm9tDxjwOBZjdboUt3yd\u002B09OToUXMpUKSos=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/css/versions/bulma-no-helpers.6qyhvqr3c4.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\css\versions\bulma-no-helpers.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6qyhvqr3c4"},{"Name":"integrity","Value":"sha256-8p7WbYbVt6fG38PzUrRiMFq1yMHNIapSnLwui5oGT5k="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/css/versions/bulma-no-helpers.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"534317"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00228p7WbYbVt6fG38PzUrRiMFq1yMHNIapSnLwui5oGT5k=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/css/versions/bulma-no-helpers.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\css\versions\bulma-no-helpers.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-8p7WbYbVt6fG38PzUrRiMFq1yMHNIapSnLwui5oGT5k="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"534317"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00228p7WbYbVt6fG38PzUrRiMFq1yMHNIapSnLwui5oGT5k=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/css/versions/bulma-no-helpers.css.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\css\versions\bulma-no-helpers.css.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PNqoc3HQlNZ3Iy9Nbw1qRq6Esl66DFQmrY6qfhynyDI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"67161"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022PNqoc3HQlNZ3Iy9Nbw1qRq6Esl66DFQmrY6qfhynyDI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/css/versions/bulma-no-helpers.css.skdyx8cfjg.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\css\versions\bulma-no-helpers.css.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"skdyx8cfjg"},{"Name":"integrity","Value":"sha256-PNqoc3HQlNZ3Iy9Nbw1qRq6Esl66DFQmrY6qfhynyDI="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/css/versions/bulma-no-helpers.css.map"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"67161"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022PNqoc3HQlNZ3Iy9Nbw1qRq6Esl66DFQmrY6qfhynyDI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/css/versions/bulma-no-helpers.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\css\versions\bulma-no-helpers.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-pnPqysBNtig6\u002BRi6NNbse2rMvBp1gHvqzymtUFQKDh8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"473100"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022pnPqysBNtig6\u002BRi6NNbse2rMvBp1gHvqzymtUFQKDh8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/css/versions/bulma-no-helpers.min.u2g5773e8z.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\css\versions\bulma-no-helpers.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"u2g5773e8z"},{"Name":"integrity","Value":"sha256-pnPqysBNtig6\u002BRi6NNbse2rMvBp1gHvqzymtUFQKDh8="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/css/versions/bulma-no-helpers.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"473100"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022pnPqysBNtig6\u002BRi6NNbse2rMvBp1gHvqzymtUFQKDh8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/css/versions/bulma-prefixed.83l8argy8t.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\css\versions\bulma-prefixed.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"83l8argy8t"},{"Name":"integrity","Value":"sha256-PM1I5sWAMXzOg5byeVyh0PviMiThDOZrERzF6RpZFiQ="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/css/versions/bulma-prefixed.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"812628"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022PM1I5sWAMXzOg5byeVyh0PviMiThDOZrERzF6RpZFiQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/css/versions/bulma-prefixed.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\css\versions\bulma-prefixed.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PM1I5sWAMXzOg5byeVyh0PviMiThDOZrERzF6RpZFiQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"812628"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022PM1I5sWAMXzOg5byeVyh0PviMiThDOZrERzF6RpZFiQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/css/versions/bulma-prefixed.css.lr9knsn1ak.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\css\versions\bulma-prefixed.css.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"lr9knsn1ak"},{"Name":"integrity","Value":"sha256-j3oXHarIESy96CEAApFvbNkiz7aX9gYzJ9M2tPmPW1g="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/css/versions/bulma-prefixed.css.map"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"93016"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022j3oXHarIESy96CEAApFvbNkiz7aX9gYzJ9M2tPmPW1g=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/css/versions/bulma-prefixed.css.map">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\css\versions\bulma-prefixed.css.map'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-j3oXHarIESy96CEAApFvbNkiz7aX9gYzJ9M2tPmPW1g="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"93016"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022j3oXHarIESy96CEAApFvbNkiz7aX9gYzJ9M2tPmPW1g=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/css/versions/bulma-prefixed.min.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\css\versions\bulma-prefixed.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-X8o8tgN8jc5zwSBBJI9aRDLeU/oMThL1eL681Y2tBjc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"726625"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022X8o8tgN8jc5zwSBBJI9aRDLeU/oMThL1eL681Y2tBjc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/css/versions/bulma-prefixed.min.fglrhh5p1o.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\css\versions\bulma-prefixed.min.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fglrhh5p1o"},{"Name":"integrity","Value":"sha256-X8o8tgN8jc5zwSBBJI9aRDLeU/oMThL1eL681Y2tBjc="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/css/versions/bulma-prefixed.min.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"726625"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022X8o8tgN8jc5zwSBBJI9aRDLeU/oMThL1eL681Y2tBjc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/LICENSE">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\LICENSE'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002B\u002BfY7Bi3Lt7RXXnKc9pe756OJY9fGv\u002BD5OmT5pdSJ5w="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1080"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022\u002B\u002BfY7Bi3Lt7RXXnKc9pe756OJY9fGv\u002BD5OmT5pdSJ5w=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/LICENSE.9f6m6aa24f">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\LICENSE'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9f6m6aa24f"},{"Name":"integrity","Value":"sha256-\u002B\u002BfY7Bi3Lt7RXXnKc9pe756OJY9fGv\u002BD5OmT5pdSJ5w="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/LICENSE"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1080"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022\u002B\u002BfY7Bi3Lt7RXXnKc9pe756OJY9fGv\u002BD5OmT5pdSJ5w=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/package.2nz52a1xde.json">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\package.json'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2nz52a1xde"},{"Name":"integrity","Value":"sha256-UsJzI3dKrdSuoBC8XSVhFe2lvyd3qxg8WWYFu9cxNbs="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/package.json"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2256"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u0022UsJzI3dKrdSuoBC8XSVhFe2lvyd3qxg8WWYFu9cxNbs=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/package.json">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\package.json'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-UsJzI3dKrdSuoBC8XSVhFe2lvyd3qxg8WWYFu9cxNbs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2256"},{"Name":"Content-Type","Value":"application/json"},{"Name":"ETag","Value":"\u0022UsJzI3dKrdSuoBC8XSVhFe2lvyd3qxg8WWYFu9cxNbs=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/README.c27roxp3kx.md">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\README.md'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"c27roxp3kx"},{"Name":"integrity","Value":"sha256-hOiUDWZBD3J2\u002BV4SZeWZ/u9Z16YD/eaD0J/tZdjjkIY="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/README.md"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14427"},{"Name":"Content-Type","Value":"text/markdown"},{"Name":"ETag","Value":"\u0022hOiUDWZBD3J2\u002BV4SZeWZ/u9Z16YD/eaD0J/tZdjjkIY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/README.md">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\README.md'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hOiUDWZBD3J2\u002BV4SZeWZ/u9Z16YD/eaD0J/tZdjjkIY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"14427"},{"Name":"Content-Type","Value":"text/markdown"},{"Name":"ETag","Value":"\u0022hOiUDWZBD3J2\u002BV4SZeWZ/u9Z16YD/eaD0J/tZdjjkIY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/base/animations.8ka5oymg1f.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\base\animations.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8ka5oymg1f"},{"Name":"integrity","Value":"sha256-SPvO0meb/aL58dXY\u002BlNHsoxtarbc3UOXTcWN9CG4Y8Y="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/base/animations.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"165"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022SPvO0meb/aL58dXY\u002BlNHsoxtarbc3UOXTcWN9CG4Y8Y=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/base/animations.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\base\animations.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-SPvO0meb/aL58dXY\u002BlNHsoxtarbc3UOXTcWN9CG4Y8Y="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"165"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022SPvO0meb/aL58dXY\u002BlNHsoxtarbc3UOXTcWN9CG4Y8Y=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/base/generic.c8io8lnjbk.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\base\generic.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"c8io8lnjbk"},{"Name":"integrity","Value":"sha256-tOGtiToGxCC/u3LFXYeTNG7LEExIxhLFl35q7itjSMw="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/base/generic.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5152"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022tOGtiToGxCC/u3LFXYeTNG7LEExIxhLFl35q7itjSMw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/base/generic.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\base\generic.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-tOGtiToGxCC/u3LFXYeTNG7LEExIxhLFl35q7itjSMw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5152"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022tOGtiToGxCC/u3LFXYeTNG7LEExIxhLFl35q7itjSMw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/base/minireset.6kc6ew508g.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\base\minireset.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6kc6ew508g"},{"Name":"integrity","Value":"sha256-6tz8DeqzK4fgG0E5kLL4YS8uV5\u002B25qbyiGDOf\u002ByP\u002BKA="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/base/minireset.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"777"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u00226tz8DeqzK4fgG0E5kLL4YS8uV5\u002B25qbyiGDOf\u002ByP\u002BKA=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/base/minireset.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\base\minireset.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-6tz8DeqzK4fgG0E5kLL4YS8uV5\u002B25qbyiGDOf\u002ByP\u002BKA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"777"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u00226tz8DeqzK4fgG0E5kLL4YS8uV5\u002B25qbyiGDOf\u002ByP\u002BKA=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/base/skeleton.3y63b3urmb.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\base\skeleton.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3y63b3urmb"},{"Name":"integrity","Value":"sha256-67zyXOVIIqAv\u002BYEO0tAK\u002BZ3/iyefrykbbBgro6QvvKA="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/base/skeleton.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2431"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u002267zyXOVIIqAv\u002BYEO0tAK\u002BZ3/iyefrykbbBgro6QvvKA=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/base/skeleton.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\base\skeleton.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-67zyXOVIIqAv\u002BYEO0tAK\u002BZ3/iyefrykbbBgro6QvvKA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2431"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u002267zyXOVIIqAv\u002BYEO0tAK\u002BZ3/iyefrykbbBgro6QvvKA=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/base/_index.oaseksef42.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\base\_index.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"oaseksef42"},{"Name":"integrity","Value":"sha256-wKq5ZbKCqfYwJ4oQxWwlkIVLTr0P13pzeEcrCpXAWOo="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/base/_index.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"101"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022wKq5ZbKCqfYwJ4oQxWwlkIVLTr0P13pzeEcrCpXAWOo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/base/_index.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\base\_index.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-wKq5ZbKCqfYwJ4oQxWwlkIVLTr0P13pzeEcrCpXAWOo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"101"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022wKq5ZbKCqfYwJ4oQxWwlkIVLTr0P13pzeEcrCpXAWOo=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/components/breadcrumb.kzyd2i3296.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\components\breadcrumb.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"kzyd2i3296"},{"Name":"integrity","Value":"sha256-YGxHE3whVLA7SPiJ0Fm3qgpP25SZIsYpxWEQ7YShEyc="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/components/breadcrumb.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3033"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022YGxHE3whVLA7SPiJ0Fm3qgpP25SZIsYpxWEQ7YShEyc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/components/breadcrumb.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\components\breadcrumb.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-YGxHE3whVLA7SPiJ0Fm3qgpP25SZIsYpxWEQ7YShEyc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3033"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022YGxHE3whVLA7SPiJ0Fm3qgpP25SZIsYpxWEQ7YShEyc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/components/card.67q9yh3zuv.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\components\card.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"67q9yh3zuv"},{"Name":"integrity","Value":"sha256-4iJtg49DGmor/nXcprV8d\u002BNJACWPlsp581j0cVjqhoM="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/components/card.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4370"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u00224iJtg49DGmor/nXcprV8d\u002BNJACWPlsp581j0cVjqhoM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/components/card.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\components\card.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-4iJtg49DGmor/nXcprV8d\u002BNJACWPlsp581j0cVjqhoM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4370"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u00224iJtg49DGmor/nXcprV8d\u002BNJACWPlsp581j0cVjqhoM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/components/dropdown.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\components\dropdown.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-CVMZd7adXbjIncX9Su\u002Bsn32SHsmJzuaRv25ZfjTHMvE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6166"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022CVMZd7adXbjIncX9Su\u002Bsn32SHsmJzuaRv25ZfjTHMvE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/components/dropdown.zh7kacpno8.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\components\dropdown.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zh7kacpno8"},{"Name":"integrity","Value":"sha256-CVMZd7adXbjIncX9Su\u002Bsn32SHsmJzuaRv25ZfjTHMvE="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/components/dropdown.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6166"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022CVMZd7adXbjIncX9Su\u002Bsn32SHsmJzuaRv25ZfjTHMvE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/components/menu.d57dxa6u39.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\components\menu.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"d57dxa6u39"},{"Name":"integrity","Value":"sha256-cW6\u002BuEpdGzV1RnGRMNa6ABNiU5xZ6vNHCirYwR/BD9w="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/components/menu.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5248"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022cW6\u002BuEpdGzV1RnGRMNa6ABNiU5xZ6vNHCirYwR/BD9w=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/components/menu.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\components\menu.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-cW6\u002BuEpdGzV1RnGRMNa6ABNiU5xZ6vNHCirYwR/BD9w="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5248"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022cW6\u002BuEpdGzV1RnGRMNa6ABNiU5xZ6vNHCirYwR/BD9w=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/components/message.9ahhpjyyxk.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\components\message.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9ahhpjyyxk"},{"Name":"integrity","Value":"sha256-PwkTuIFvQ7qvIgohY9pyr8zrmgqpw0i\u002BbWgzyjEUnjk="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/components/message.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5662"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022PwkTuIFvQ7qvIgohY9pyr8zrmgqpw0i\u002BbWgzyjEUnjk=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/components/message.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\components\message.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PwkTuIFvQ7qvIgohY9pyr8zrmgqpw0i\u002BbWgzyjEUnjk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5662"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022PwkTuIFvQ7qvIgohY9pyr8zrmgqpw0i\u002BbWgzyjEUnjk=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/components/modal.472dtlee9z.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\components\modal.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"472dtlee9z"},{"Name":"integrity","Value":"sha256-YF0P6Iifm/t5NJMu\u002B95pxk0a52e43zafj0y0KO0qGTI="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/components/modal.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5225"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022YF0P6Iifm/t5NJMu\u002B95pxk0a52e43zafj0y0KO0qGTI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/components/modal.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\components\modal.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-YF0P6Iifm/t5NJMu\u002B95pxk0a52e43zafj0y0KO0qGTI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5225"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022YF0P6Iifm/t5NJMu\u002B95pxk0a52e43zafj0y0KO0qGTI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/components/navbar.bz6t1f9jcm.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\components\navbar.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bz6t1f9jcm"},{"Name":"integrity","Value":"sha256-l1XIwPBrwLUEUaMPn5zGcK4sRFGvykDrZjhDeC9hitU="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/components/navbar.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"23747"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022l1XIwPBrwLUEUaMPn5zGcK4sRFGvykDrZjhDeC9hitU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/components/navbar.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\components\navbar.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-l1XIwPBrwLUEUaMPn5zGcK4sRFGvykDrZjhDeC9hitU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"23747"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022l1XIwPBrwLUEUaMPn5zGcK4sRFGvykDrZjhDeC9hitU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/components/pagination.ehepcyti7t.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\components\pagination.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ehepcyti7t"},{"Name":"integrity","Value":"sha256-krnfnhi0LrQMNBOrH\u002B8nNJ/WHaNgcp8vYb50OIMccCY="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/components/pagination.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"12227"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022krnfnhi0LrQMNBOrH\u002B8nNJ/WHaNgcp8vYb50OIMccCY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/components/pagination.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\components\pagination.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-krnfnhi0LrQMNBOrH\u002B8nNJ/WHaNgcp8vYb50OIMccCY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"12227"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022krnfnhi0LrQMNBOrH\u002B8nNJ/WHaNgcp8vYb50OIMccCY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/components/panel.6xt5bt2imq.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\components\panel.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6xt5bt2imq"},{"Name":"integrity","Value":"sha256-ukWPWwcjdaFwqherw9SOazhAkLfOpwOO1Kdnmx6lkxE="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/components/panel.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6652"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022ukWPWwcjdaFwqherw9SOazhAkLfOpwOO1Kdnmx6lkxE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/components/panel.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\components\panel.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ukWPWwcjdaFwqherw9SOazhAkLfOpwOO1Kdnmx6lkxE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6652"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022ukWPWwcjdaFwqherw9SOazhAkLfOpwOO1Kdnmx6lkxE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/components/tabs.cy2zvus6c5.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\components\tabs.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"cy2zvus6c5"},{"Name":"integrity","Value":"sha256-tPDNz58Rj1d/JfLSQiZONK3w7oMKOfgB8KblE8H/MbY="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/components/tabs.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8818"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022tPDNz58Rj1d/JfLSQiZONK3w7oMKOfgB8KblE8H/MbY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/components/tabs.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\components\tabs.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-tPDNz58Rj1d/JfLSQiZONK3w7oMKOfgB8KblE8H/MbY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"8818"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022tPDNz58Rj1d/JfLSQiZONK3w7oMKOfgB8KblE8H/MbY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/components/_index.qr9qacqw1a.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\components\_index.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qr9qacqw1a"},{"Name":"integrity","Value":"sha256-9k37OCEVltYxWcUyYFnWgOIc/W3G04ru4cIZn/VghEU="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/components/_index.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"235"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u00229k37OCEVltYxWcUyYFnWgOIc/W3G04ru4cIZn/VghEU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/components/_index.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\components\_index.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9k37OCEVltYxWcUyYFnWgOIc/W3G04ru4cIZn/VghEU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"235"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u00229k37OCEVltYxWcUyYFnWgOIc/W3G04ru4cIZn/VghEU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/elements/block.28n4ut6jwy.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\elements\block.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"28n4ut6jwy"},{"Name":"integrity","Value":"sha256-kuA5lwj2iqtDSisgAXCD1CyWxq2cSQ0nsB5Kjys6O88="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/elements/block.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"123"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022kuA5lwj2iqtDSisgAXCD1CyWxq2cSQ0nsB5Kjys6O88=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/elements/block.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\elements\block.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kuA5lwj2iqtDSisgAXCD1CyWxq2cSQ0nsB5Kjys6O88="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"123"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022kuA5lwj2iqtDSisgAXCD1CyWxq2cSQ0nsB5Kjys6O88=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/elements/box.qwvq9plerv.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\elements\box.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qwvq9plerv"},{"Name":"integrity","Value":"sha256-9l4RiNa3hx7YwWMf1ubnb2z4ZgBrCha3mLunYOFzYbc="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/elements/box.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1599"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u00229l4RiNa3hx7YwWMf1ubnb2z4ZgBrCha3mLunYOFzYbc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/elements/box.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\elements\box.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-9l4RiNa3hx7YwWMf1ubnb2z4ZgBrCha3mLunYOFzYbc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1599"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u00229l4RiNa3hx7YwWMf1ubnb2z4ZgBrCha3mLunYOFzYbc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/elements/button.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\elements\button.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-blK5Zn2jsmEYhn9DZy2X4Ls3KoouAJSeeukZPq9kbh0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"18951"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022blK5Zn2jsmEYhn9DZy2X4Ls3KoouAJSeeukZPq9kbh0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/elements/button.y71lh2uy1u.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\elements\button.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"y71lh2uy1u"},{"Name":"integrity","Value":"sha256-blK5Zn2jsmEYhn9DZy2X4Ls3KoouAJSeeukZPq9kbh0="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/elements/button.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"18951"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022blK5Zn2jsmEYhn9DZy2X4Ls3KoouAJSeeukZPq9kbh0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/elements/content.q78ypbfk5c.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\elements\content.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"q78ypbfk5c"},{"Name":"integrity","Value":"sha256-FhMy7rCMtGUzmDQ\u002BmuaExUf9ek/dSV0BZ3lIf4UaVaQ="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/elements/content.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6595"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022FhMy7rCMtGUzmDQ\u002BmuaExUf9ek/dSV0BZ3lIf4UaVaQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/elements/content.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\elements\content.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-FhMy7rCMtGUzmDQ\u002BmuaExUf9ek/dSV0BZ3lIf4UaVaQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6595"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022FhMy7rCMtGUzmDQ\u002BmuaExUf9ek/dSV0BZ3lIf4UaVaQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/elements/delete.o0qcl8oq0x.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\elements\delete.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"o0qcl8oq0x"},{"Name":"integrity","Value":"sha256-uGPotEeEIL8fDpmJlbxcvrJiimkvNhdDEdXD4h4HQfI="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/elements/delete.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"133"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022uGPotEeEIL8fDpmJlbxcvrJiimkvNhdDEdXD4h4HQfI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/elements/delete.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\elements\delete.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-uGPotEeEIL8fDpmJlbxcvrJiimkvNhdDEdXD4h4HQfI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"133"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022uGPotEeEIL8fDpmJlbxcvrJiimkvNhdDEdXD4h4HQfI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/elements/icon.sb2f5f3dol.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\elements\icon.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"sb2f5f3dol"},{"Name":"integrity","Value":"sha256-eBWzP3mJFfavWmBSVJt4gsdu71l9rtzYo0Lha396wEw="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/elements/icon.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1706"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022eBWzP3mJFfavWmBSVJt4gsdu71l9rtzYo0Lha396wEw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/elements/icon.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\elements\icon.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-eBWzP3mJFfavWmBSVJt4gsdu71l9rtzYo0Lha396wEw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1706"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022eBWzP3mJFfavWmBSVJt4gsdu71l9rtzYo0Lha396wEw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/elements/image.4apjyee6vc.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\elements\image.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4apjyee6vc"},{"Name":"integrity","Value":"sha256-RD9OhG1nnYLYlmzNbIyYcnKk5ygtqe3cbqsV8H0WcBQ="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/elements/image.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1200"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022RD9OhG1nnYLYlmzNbIyYcnKk5ygtqe3cbqsV8H0WcBQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/elements/image.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\elements\image.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-RD9OhG1nnYLYlmzNbIyYcnKk5ygtqe3cbqsV8H0WcBQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1200"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022RD9OhG1nnYLYlmzNbIyYcnKk5ygtqe3cbqsV8H0WcBQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/elements/loader.5r89u6pogi.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\elements\loader.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5r89u6pogi"},{"Name":"integrity","Value":"sha256-kdrtdh9R4b561BP9YIlAv5HdVbzdI5f5guNFju0a17U="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/elements/loader.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"404"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022kdrtdh9R4b561BP9YIlAv5HdVbzdI5f5guNFju0a17U=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/elements/loader.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\elements\loader.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-kdrtdh9R4b561BP9YIlAv5HdVbzdI5f5guNFju0a17U="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"404"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022kdrtdh9R4b561BP9YIlAv5HdVbzdI5f5guNFju0a17U=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/elements/notification.m5lm5bh28w.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\elements\notification.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"m5lm5bh28w"},{"Name":"integrity","Value":"sha256-mtUZoxrXIHRQz8U/LdqCRKXtxNaVBKmvPzy/x2Jhnwk="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/elements/notification.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2810"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022mtUZoxrXIHRQz8U/LdqCRKXtxNaVBKmvPzy/x2Jhnwk=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/elements/notification.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\elements\notification.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-mtUZoxrXIHRQz8U/LdqCRKXtxNaVBKmvPzy/x2Jhnwk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2810"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022mtUZoxrXIHRQz8U/LdqCRKXtxNaVBKmvPzy/x2Jhnwk=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/elements/progress.ld97mse0dt.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\elements\progress.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ld97mse0dt"},{"Name":"integrity","Value":"sha256-OdFGp5QbArM4bQvV6M7qSxaOJ00rtE78Q\u002BKLv7XXAvM="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/elements/progress.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2836"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022OdFGp5QbArM4bQvV6M7qSxaOJ00rtE78Q\u002BKLv7XXAvM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/elements/progress.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\elements\progress.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-OdFGp5QbArM4bQvV6M7qSxaOJ00rtE78Q\u002BKLv7XXAvM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2836"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022OdFGp5QbArM4bQvV6M7qSxaOJ00rtE78Q\u002BKLv7XXAvM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/elements/table.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\elements\table.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-KPibRPJkNRP3PLtgiBLGu71HN6x4ZkUtji1dps9ISiw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"7130"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022KPibRPJkNRP3PLtgiBLGu71HN6x4ZkUtji1dps9ISiw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/elements/table.wyjbqp7gmx.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\elements\table.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wyjbqp7gmx"},{"Name":"integrity","Value":"sha256-KPibRPJkNRP3PLtgiBLGu71HN6x4ZkUtji1dps9ISiw="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/elements/table.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7130"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022KPibRPJkNRP3PLtgiBLGu71HN6x4ZkUtji1dps9ISiw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/elements/tag.dvr82ckf1j.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\elements\tag.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dvr82ckf1j"},{"Name":"integrity","Value":"sha256-GTE5KtuUd4QUPofkm9y5cLRsU8j7iT6Of8x8T3JYKa4="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/elements/tag.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5246"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022GTE5KtuUd4QUPofkm9y5cLRsU8j7iT6Of8x8T3JYKa4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/elements/tag.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\elements\tag.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-GTE5KtuUd4QUPofkm9y5cLRsU8j7iT6Of8x8T3JYKa4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5246"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022GTE5KtuUd4QUPofkm9y5cLRsU8j7iT6Of8x8T3JYKa4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/elements/title.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\elements\title.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-dqcS7xRhFWresITLfqaH0xRVY3JNxk0Ad9PpNiILJQw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3382"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022dqcS7xRhFWresITLfqaH0xRVY3JNxk0Ad9PpNiILJQw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/elements/title.yi6ibbrnvh.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\elements\title.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yi6ibbrnvh"},{"Name":"integrity","Value":"sha256-dqcS7xRhFWresITLfqaH0xRVY3JNxk0Ad9PpNiILJQw="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/elements/title.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3382"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022dqcS7xRhFWresITLfqaH0xRVY3JNxk0Ad9PpNiILJQw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/elements/_index.jbavqcbzfv.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\elements\_index.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jbavqcbzfv"},{"Name":"integrity","Value":"sha256-/7/zHebfz1p\u002B5xHwsDeLBSAsnmMZ7Mq/oWm8u4UqY24="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/elements/_index.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"284"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022/7/zHebfz1p\u002B5xHwsDeLBSAsnmMZ7Mq/oWm8u4UqY24=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/elements/_index.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\elements\_index.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-/7/zHebfz1p\u002B5xHwsDeLBSAsnmMZ7Mq/oWm8u4UqY24="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"284"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022/7/zHebfz1p\u002B5xHwsDeLBSAsnmMZ7Mq/oWm8u4UqY24=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/form/checkbox-radio.fzw5d49qz3.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\form\checkbox-radio.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fzw5d49qz3"},{"Name":"integrity","Value":"sha256-OwOFB2l7H8tcfVkMIH2azMZRpa5E2Pf0M3gjjH4Dpyk="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/form/checkbox-radio.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"590"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022OwOFB2l7H8tcfVkMIH2azMZRpa5E2Pf0M3gjjH4Dpyk=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/form/checkbox-radio.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\form\checkbox-radio.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-OwOFB2l7H8tcfVkMIH2azMZRpa5E2Pf0M3gjjH4Dpyk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"590"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022OwOFB2l7H8tcfVkMIH2azMZRpa5E2Pf0M3gjjH4Dpyk=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/form/file.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\form\file.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-E1\u002B1aiGzYjZHz859GQNnEL0N5pULquGYZQHok9bZHus="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"8493"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022E1\u002B1aiGzYjZHz859GQNnEL0N5pULquGYZQHok9bZHus=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/form/file.zop4s6t70j.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\form\file.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"zop4s6t70j"},{"Name":"integrity","Value":"sha256-E1\u002B1aiGzYjZHz859GQNnEL0N5pULquGYZQHok9bZHus="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/form/file.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8493"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022E1\u002B1aiGzYjZHz859GQNnEL0N5pULquGYZQHok9bZHus=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/form/input-textarea.b4fop85x0m.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\form\input-textarea.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"b4fop85x0m"},{"Name":"integrity","Value":"sha256-i8tg14FJmch\u002BWDMXqUWWPA2SiGQjbY82Kti\u002B6sKM2W0="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/form/input-textarea.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2587"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022i8tg14FJmch\u002BWDMXqUWWPA2SiGQjbY82Kti\u002B6sKM2W0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/form/input-textarea.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\form\input-textarea.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-i8tg14FJmch\u002BWDMXqUWWPA2SiGQjbY82Kti\u002B6sKM2W0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2587"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022i8tg14FJmch\u002BWDMXqUWWPA2SiGQjbY82Kti\u002B6sKM2W0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/form/select.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\form\select.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-tCzwONKyfduUVpHTR2NfMyhQSGeTUsJkb0HPMUbZL6A="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3048"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022tCzwONKyfduUVpHTR2NfMyhQSGeTUsJkb0HPMUbZL6A=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/form/select.wrab41y6h8.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\form\select.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wrab41y6h8"},{"Name":"integrity","Value":"sha256-tCzwONKyfduUVpHTR2NfMyhQSGeTUsJkb0HPMUbZL6A="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/form/select.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3048"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022tCzwONKyfduUVpHTR2NfMyhQSGeTUsJkb0HPMUbZL6A=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/form/shared.3yfljvcr32.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\form\shared.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3yfljvcr32"},{"Name":"integrity","Value":"sha256-\u002B5Iw4Ot\u002Bz0RXo2HP6s/z9635Q3Ni3UXZDRa8QUb4xtM="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/form/shared.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5670"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022\u002B5Iw4Ot\u002Bz0RXo2HP6s/z9635Q3Ni3UXZDRa8QUb4xtM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/form/shared.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\form\shared.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002B5Iw4Ot\u002Bz0RXo2HP6s/z9635Q3Ni3UXZDRa8QUb4xtM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5670"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022\u002B5Iw4Ot\u002Bz0RXo2HP6s/z9635Q3Ni3UXZDRa8QUb4xtM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/form/tools.pcpmkkiohp.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\form\tools.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pcpmkkiohp"},{"Name":"integrity","Value":"sha256-J1JAtK0Boy6kW0BJbPMPQp\u002BegrDlPzOGakvwCBkr9Fc="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/form/tools.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7529"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022J1JAtK0Boy6kW0BJbPMPQp\u002BegrDlPzOGakvwCBkr9Fc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/form/tools.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\form\tools.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-J1JAtK0Boy6kW0BJbPMPQp\u002BegrDlPzOGakvwCBkr9Fc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"7529"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022J1JAtK0Boy6kW0BJbPMPQp\u002BegrDlPzOGakvwCBkr9Fc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/form/_index.rt1fc6lw2s.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\form\_index.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rt1fc6lw2s"},{"Name":"integrity","Value":"sha256-AZV7sFWhnvSAxrALpLp4hMUYmvKoITXxY/14Ye/8CPM="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/form/_index.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"163"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022AZV7sFWhnvSAxrALpLp4hMUYmvKoITXxY/14Ye/8CPM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/form/_index.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\form\_index.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-AZV7sFWhnvSAxrALpLp4hMUYmvKoITXxY/14Ye/8CPM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"163"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022AZV7sFWhnvSAxrALpLp4hMUYmvKoITXxY/14Ye/8CPM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/grid/columns.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\grid\columns.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hhPJaqOWfQrdxIVB/d9pTxoD6BNv2JMfa1ivKcg0/2E="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"21022"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022hhPJaqOWfQrdxIVB/d9pTxoD6BNv2JMfa1ivKcg0/2E=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/grid/columns.ub1znpcnuv.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\grid\columns.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ub1znpcnuv"},{"Name":"integrity","Value":"sha256-hhPJaqOWfQrdxIVB/d9pTxoD6BNv2JMfa1ivKcg0/2E="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/grid/columns.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"21022"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022hhPJaqOWfQrdxIVB/d9pTxoD6BNv2JMfa1ivKcg0/2E=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/grid/grid.rw5cl4525i.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\grid\grid.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rw5cl4525i"},{"Name":"integrity","Value":"sha256-FcLddg5vysifGJJIaRwPm4gwGaNC8PCAnthIczwfahk="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/grid/grid.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5355"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022FcLddg5vysifGJJIaRwPm4gwGaNC8PCAnthIczwfahk=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/grid/grid.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\grid\grid.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-FcLddg5vysifGJJIaRwPm4gwGaNC8PCAnthIczwfahk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"5355"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022FcLddg5vysifGJJIaRwPm4gwGaNC8PCAnthIczwfahk=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/grid/_index.ftfye8hc3z.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\grid\_index.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ftfye8hc3z"},{"Name":"integrity","Value":"sha256-bX1hsfcMxYrScpePdBbqdgt4KvQ/3xo37uZ0sHhMmgI="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/grid/_index.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"73"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022bX1hsfcMxYrScpePdBbqdgt4KvQ/3xo37uZ0sHhMmgI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/grid/_index.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\grid\_index.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-bX1hsfcMxYrScpePdBbqdgt4KvQ/3xo37uZ0sHhMmgI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"73"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022bX1hsfcMxYrScpePdBbqdgt4KvQ/3xo37uZ0sHhMmgI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/helpers/aspect-ratio.47yrfqne8k.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\helpers\aspect-ratio.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"47yrfqne8k"},{"Name":"integrity","Value":"sha256-IBMdwQiEA4PL2Jl/SewTWMBhD/DwUQUp/RU/SGLXVIQ="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/helpers/aspect-ratio.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"263"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022IBMdwQiEA4PL2Jl/SewTWMBhD/DwUQUp/RU/SGLXVIQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/helpers/aspect-ratio.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\helpers\aspect-ratio.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-IBMdwQiEA4PL2Jl/SewTWMBhD/DwUQUp/RU/SGLXVIQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"263"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022IBMdwQiEA4PL2Jl/SewTWMBhD/DwUQUp/RU/SGLXVIQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/helpers/border.gk5kwom5ni.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\helpers\border.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"gk5kwom5ni"},{"Name":"integrity","Value":"sha256-0IaMkIL8O6OiAKKpPZWpnLR\u002BqcqB8NEzfjGhqq6PL14="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/helpers/border.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"345"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u00220IaMkIL8O6OiAKKpPZWpnLR\u002BqcqB8NEzfjGhqq6PL14=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/helpers/border.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\helpers\border.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-0IaMkIL8O6OiAKKpPZWpnLR\u002BqcqB8NEzfjGhqq6PL14="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"345"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u00220IaMkIL8O6OiAKKpPZWpnLR\u002BqcqB8NEzfjGhqq6PL14=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/helpers/color.fs3fsli59e.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\helpers\color.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"fs3fsli59e"},{"Name":"integrity","Value":"sha256-7zDfIZZb8GpP\u002BfXpXDVI2hFP2sVqUndnmNOeSB6wOWw="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/helpers/color.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9322"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u00227zDfIZZb8GpP\u002BfXpXDVI2hFP2sVqUndnmNOeSB6wOWw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/helpers/color.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\helpers\color.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-7zDfIZZb8GpP\u002BfXpXDVI2hFP2sVqUndnmNOeSB6wOWw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"9322"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u00227zDfIZZb8GpP\u002BfXpXDVI2hFP2sVqUndnmNOeSB6wOWw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/helpers/flexbox.2o7ausu1dd.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\helpers\flexbox.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2o7ausu1dd"},{"Name":"integrity","Value":"sha256-rszKAQYssyj3qsPY3c5gXuyOtJx3dnjHrbg8/z3Y/kU="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/helpers/flexbox.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1727"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022rszKAQYssyj3qsPY3c5gXuyOtJx3dnjHrbg8/z3Y/kU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/helpers/flexbox.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\helpers\flexbox.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rszKAQYssyj3qsPY3c5gXuyOtJx3dnjHrbg8/z3Y/kU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1727"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022rszKAQYssyj3qsPY3c5gXuyOtJx3dnjHrbg8/z3Y/kU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/helpers/float.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\helpers\float.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-QnkAd833duc9bdV16F2P65d3xYYP1C/xRZ4E86jSxlQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"674"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022QnkAd833duc9bdV16F2P65d3xYYP1C/xRZ4E86jSxlQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/helpers/float.yw6hco5osl.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\helpers\float.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yw6hco5osl"},{"Name":"integrity","Value":"sha256-QnkAd833duc9bdV16F2P65d3xYYP1C/xRZ4E86jSxlQ="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/helpers/float.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"674"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022QnkAd833duc9bdV16F2P65d3xYYP1C/xRZ4E86jSxlQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/helpers/gap.dtawo4otk5.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\helpers\gap.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dtawo4otk5"},{"Name":"integrity","Value":"sha256-wWanDuLS5k4ILl\u002BbVSp3OeFgIDQGKnEfLHAQd2dP7uY="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/helpers/gap.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"555"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022wWanDuLS5k4ILl\u002BbVSp3OeFgIDQGKnEfLHAQd2dP7uY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/helpers/gap.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\helpers\gap.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-wWanDuLS5k4ILl\u002BbVSp3OeFgIDQGKnEfLHAQd2dP7uY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"555"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022wWanDuLS5k4ILl\u002BbVSp3OeFgIDQGKnEfLHAQd2dP7uY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/helpers/other.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\helpers\other.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-xt1CUXRF8HC4NWTu5ailG1y\u002BNpdVdsxBD7s/gvFZpcM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"454"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022xt1CUXRF8HC4NWTu5ailG1y\u002BNpdVdsxBD7s/gvFZpcM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/helpers/other.yqzdkyh797.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\helpers\other.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yqzdkyh797"},{"Name":"integrity","Value":"sha256-xt1CUXRF8HC4NWTu5ailG1y\u002BNpdVdsxBD7s/gvFZpcM="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/helpers/other.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"454"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022xt1CUXRF8HC4NWTu5ailG1y\u002BNpdVdsxBD7s/gvFZpcM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/helpers/overflow.lg25fbhbku.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\helpers\overflow.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"lg25fbhbku"},{"Name":"integrity","Value":"sha256-teYh2YtV9\u002Bca3TnWEOSC9pYZIz9wp\u002BnxqXmSKFA/jr4="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/helpers/overflow.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"542"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022teYh2YtV9\u002Bca3TnWEOSC9pYZIz9wp\u002BnxqXmSKFA/jr4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/helpers/overflow.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\helpers\overflow.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-teYh2YtV9\u002Bca3TnWEOSC9pYZIz9wp\u002BnxqXmSKFA/jr4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"542"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022teYh2YtV9\u002Bca3TnWEOSC9pYZIz9wp\u002BnxqXmSKFA/jr4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/helpers/position.lceylq6ru1.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\helpers\position.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"lceylq6ru1"},{"Name":"integrity","Value":"sha256-JXp0iDEOOaVm94IWRQdijx/x5VJp18gJcwftYss3sZU="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/helpers/position.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"480"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022JXp0iDEOOaVm94IWRQdijx/x5VJp18gJcwftYss3sZU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/helpers/position.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\helpers\position.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-JXp0iDEOOaVm94IWRQdijx/x5VJp18gJcwftYss3sZU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"480"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022JXp0iDEOOaVm94IWRQdijx/x5VJp18gJcwftYss3sZU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/helpers/spacing.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\helpers\spacing.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-mjGaitcRtFotuBCt3BWibBWSI07OlB58h8XoVMiIV0w="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1451"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022mjGaitcRtFotuBCt3BWibBWSI07OlB58h8XoVMiIV0w=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/helpers/spacing.yiniiafd26.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\helpers\spacing.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yiniiafd26"},{"Name":"integrity","Value":"sha256-mjGaitcRtFotuBCt3BWibBWSI07OlB58h8XoVMiIV0w="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/helpers/spacing.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1451"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022mjGaitcRtFotuBCt3BWibBWSI07OlB58h8XoVMiIV0w=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/helpers/typography.dluvl4sw4w.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\helpers\typography.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dluvl4sw4w"},{"Name":"integrity","Value":"sha256-oTEteSPVsU9LblsbMhXzGtpYlEruJ2J5htDV56dr8QA="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/helpers/typography.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4280"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022oTEteSPVsU9LblsbMhXzGtpYlEruJ2J5htDV56dr8QA=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/helpers/typography.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\helpers\typography.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-oTEteSPVsU9LblsbMhXzGtpYlEruJ2J5htDV56dr8QA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4280"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022oTEteSPVsU9LblsbMhXzGtpYlEruJ2J5htDV56dr8QA=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/helpers/visibility.pkkotypmfn.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\helpers\visibility.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pkkotypmfn"},{"Name":"integrity","Value":"sha256-12yAed8iMuPocjZwSuvmXIFvKOw9b0oh5/i7BYNd6A4="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/helpers/visibility.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6387"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u002212yAed8iMuPocjZwSuvmXIFvKOw9b0oh5/i7BYNd6A4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/helpers/visibility.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\helpers\visibility.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-12yAed8iMuPocjZwSuvmXIFvKOw9b0oh5/i7BYNd6A4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6387"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u002212yAed8iMuPocjZwSuvmXIFvKOw9b0oh5/i7BYNd6A4=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/helpers/_index.9hiluzhqb2.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\helpers\_index.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9hiluzhqb2"},{"Name":"integrity","Value":"sha256-zSpak808s7kVSed8Z3IcX0T2KvSW1flVtWQCfcrABnU="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/helpers/_index.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"281"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022zSpak808s7kVSed8Z3IcX0T2KvSW1flVtWQCfcrABnU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/helpers/_index.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\helpers\_index.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zSpak808s7kVSed8Z3IcX0T2KvSW1flVtWQCfcrABnU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"281"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022zSpak808s7kVSed8Z3IcX0T2KvSW1flVtWQCfcrABnU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/layout/container.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\layout\container.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-QXo1/fWEYGoCqdV55KQQt3aqVR9YXJkjRsvhyOulqTc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1609"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022QXo1/fWEYGoCqdV55KQQt3aqVR9YXJkjRsvhyOulqTc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/layout/container.xgal244heb.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\layout\container.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xgal244heb"},{"Name":"integrity","Value":"sha256-QXo1/fWEYGoCqdV55KQQt3aqVR9YXJkjRsvhyOulqTc="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/layout/container.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1609"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022QXo1/fWEYGoCqdV55KQQt3aqVR9YXJkjRsvhyOulqTc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/layout/footer.f79u3pjb72.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\layout\footer.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"f79u3pjb72"},{"Name":"integrity","Value":"sha256-G2E2iFb4af0jHk5b7fwbhJjidi3caer/0SEB9Yv\u002BClY="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/layout/footer.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"615"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022G2E2iFb4af0jHk5b7fwbhJjidi3caer/0SEB9Yv\u002BClY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/layout/footer.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\layout\footer.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-G2E2iFb4af0jHk5b7fwbhJjidi3caer/0SEB9Yv\u002BClY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"615"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022G2E2iFb4af0jHk5b7fwbhJjidi3caer/0SEB9Yv\u002BClY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/layout/hero.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\layout\hero.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-JbSaVWijKBwJ\u002BZiIOy\u002BJHrkQ8ICxU\u002BXuPXOnj5QkLYY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6615"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022JbSaVWijKBwJ\u002BZiIOy\u002BJHrkQ8ICxU\u002BXuPXOnj5QkLYY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/layout/hero.ty87rs6x3h.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\layout\hero.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ty87rs6x3h"},{"Name":"integrity","Value":"sha256-JbSaVWijKBwJ\u002BZiIOy\u002BJHrkQ8ICxU\u002BXuPXOnj5QkLYY="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/layout/hero.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6615"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022JbSaVWijKBwJ\u002BZiIOy\u002BJHrkQ8ICxU\u002BXuPXOnj5QkLYY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/layout/level.0xmay5ns0f.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\layout\level.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0xmay5ns0f"},{"Name":"integrity","Value":"sha256-fGfWRDrT47qaNtMeDK096JNIyetO0y6Mv8pYBcAP9jI="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/layout/level.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2070"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022fGfWRDrT47qaNtMeDK096JNIyetO0y6Mv8pYBcAP9jI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/layout/level.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\layout\level.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-fGfWRDrT47qaNtMeDK096JNIyetO0y6Mv8pYBcAP9jI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2070"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022fGfWRDrT47qaNtMeDK096JNIyetO0y6Mv8pYBcAP9jI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/layout/media.7j1zwfwlr7.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\layout\media.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7j1zwfwlr7"},{"Name":"integrity","Value":"sha256-g\u002B5QKrpEIwYiS4fQOUb1kSy2I4WnoO2/oNm1lQiBQ7s="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/layout/media.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2852"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022g\u002B5QKrpEIwYiS4fQOUb1kSy2I4WnoO2/oNm1lQiBQ7s=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/layout/media.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\layout\media.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-g\u002B5QKrpEIwYiS4fQOUb1kSy2I4WnoO2/oNm1lQiBQ7s="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2852"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022g\u002B5QKrpEIwYiS4fQOUb1kSy2I4WnoO2/oNm1lQiBQ7s=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/layout/section.1kyk1zpa97.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\layout\section.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1kyk1zpa97"},{"Name":"integrity","Value":"sha256-8QjZe/y0lhIPfanQu6WPxg0Rq3YC/Ew1xnnOqM1kuVk="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/layout/section.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1015"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u00228QjZe/y0lhIPfanQu6WPxg0Rq3YC/Ew1xnnOqM1kuVk=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/layout/section.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\layout\section.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-8QjZe/y0lhIPfanQu6WPxg0Rq3YC/Ew1xnnOqM1kuVk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1015"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u00228QjZe/y0lhIPfanQu6WPxg0Rq3YC/Ew1xnnOqM1kuVk=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/layout/_index.71kwi7lvll.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\layout\_index.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"71kwi7lvll"},{"Name":"integrity","Value":"sha256-aws\u002BsXKE6x45otgJ2EREwyrldJjyBTPC8Wuitu3OSrE="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/layout/_index.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"156"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022aws\u002BsXKE6x45otgJ2EREwyrldJjyBTPC8Wuitu3OSrE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/layout/_index.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\layout\_index.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-aws\u002BsXKE6x45otgJ2EREwyrldJjyBTPC8Wuitu3OSrE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"156"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022aws\u002BsXKE6x45otgJ2EREwyrldJjyBTPC8Wuitu3OSrE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/themes/dark.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\themes\dark.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-74lGrrVQRsOUK2eUIfJaZOJVvakgulgWKVztyN68Sws="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1540"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u002274lGrrVQRsOUK2eUIfJaZOJVvakgulgWKVztyN68Sws=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/themes/dark.x4iln4mv5i.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\themes\dark.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"x4iln4mv5i"},{"Name":"integrity","Value":"sha256-74lGrrVQRsOUK2eUIfJaZOJVvakgulgWKVztyN68Sws="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/themes/dark.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1540"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u002274lGrrVQRsOUK2eUIfJaZOJVvakgulgWKVztyN68Sws=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/themes/light.8kx5vtes19.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\themes\light.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8kx5vtes19"},{"Name":"integrity","Value":"sha256-2NN1vP1b4sKZW5Qdv0\u002BqUtXAjzlEkbfwheC8/alWbWc="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/themes/light.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3980"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u00222NN1vP1b4sKZW5Qdv0\u002BqUtXAjzlEkbfwheC8/alWbWc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/themes/light.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\themes\light.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2NN1vP1b4sKZW5Qdv0\u002BqUtXAjzlEkbfwheC8/alWbWc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3980"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u00222NN1vP1b4sKZW5Qdv0\u002BqUtXAjzlEkbfwheC8/alWbWc=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/themes/setup.o3lxtvep9g.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\themes\setup.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"o3lxtvep9g"},{"Name":"integrity","Value":"sha256-7N2GHUGDGKe5B04DsOPcy6OitpPIUSGFgeVZwV\u002BPnjk="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/themes/setup.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4695"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u00227N2GHUGDGKe5B04DsOPcy6OitpPIUSGFgeVZwV\u002BPnjk=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/themes/setup.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\themes\setup.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-7N2GHUGDGKe5B04DsOPcy6OitpPIUSGFgeVZwV\u002BPnjk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"4695"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u00227N2GHUGDGKe5B04DsOPcy6OitpPIUSGFgeVZwV\u002BPnjk=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/themes/_index.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\themes\_index.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rgcTqyzeck0Qo\u002BEwRSzBOu5jEyPLXOcli\u002BuGgUBa09o="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"747"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022rgcTqyzeck0Qo\u002BEwRSzBOu5jEyPLXOcli\u002BuGgUBa09o=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/themes/_index.ybwsx5sbxm.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\themes\_index.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ybwsx5sbxm"},{"Name":"integrity","Value":"sha256-rgcTqyzeck0Qo\u002BEwRSzBOu5jEyPLXOcli\u002BuGgUBa09o="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/themes/_index.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"747"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022rgcTqyzeck0Qo\u002BEwRSzBOu5jEyPLXOcli\u002BuGgUBa09o=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/utilities/controls.cxv8e4d6ea.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\utilities\controls.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"cxv8e4d6ea"},{"Name":"integrity","Value":"sha256-oAGn8aXKOd0iIE4g1FxYJiUev9S\u002B/9xCFvvlwEkdlYU="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/utilities/controls.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2466"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022oAGn8aXKOd0iIE4g1FxYJiUev9S\u002B/9xCFvvlwEkdlYU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/utilities/controls.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\utilities\controls.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-oAGn8aXKOd0iIE4g1FxYJiUev9S\u002B/9xCFvvlwEkdlYU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2466"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022oAGn8aXKOd0iIE4g1FxYJiUev9S\u002B/9xCFvvlwEkdlYU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/utilities/css-variables.nifioan9el.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\utilities\css-variables.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"nifioan9el"},{"Name":"integrity","Value":"sha256-8bBUgeWsMjiw28JQz0MRqhREuXVpCTaXZTQnKquqwVY="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/utilities/css-variables.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"13726"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u00228bBUgeWsMjiw28JQz0MRqhREuXVpCTaXZTQnKquqwVY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/utilities/css-variables.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\utilities\css-variables.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-8bBUgeWsMjiw28JQz0MRqhREuXVpCTaXZTQnKquqwVY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"13726"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u00228bBUgeWsMjiw28JQz0MRqhREuXVpCTaXZTQnKquqwVY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/utilities/derived-variables.k1ok3x5q4b.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\utilities\derived-variables.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"k1ok3x5q4b"},{"Name":"integrity","Value":"sha256-SHLnEKrYvbCiz4wSEDMwjnebrYlh8L8YSMzQgMo6Qu8="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/utilities/derived-variables.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2363"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022SHLnEKrYvbCiz4wSEDMwjnebrYlh8L8YSMzQgMo6Qu8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/utilities/derived-variables.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\utilities\derived-variables.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-SHLnEKrYvbCiz4wSEDMwjnebrYlh8L8YSMzQgMo6Qu8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2363"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022SHLnEKrYvbCiz4wSEDMwjnebrYlh8L8YSMzQgMo6Qu8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/utilities/extends.0af7wyn153.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\utilities\extends.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0af7wyn153"},{"Name":"integrity","Value":"sha256-6B4TVnXAbSnYlfIJVWSgvO5\u002BmSFVompgWFcwaxRz4LY="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/utilities/extends.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"356"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u00226B4TVnXAbSnYlfIJVWSgvO5\u002BmSFVompgWFcwaxRz4LY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/utilities/extends.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\utilities\extends.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-6B4TVnXAbSnYlfIJVWSgvO5\u002BmSFVompgWFcwaxRz4LY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"356"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u00226B4TVnXAbSnYlfIJVWSgvO5\u002BmSFVompgWFcwaxRz4LY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/utilities/functions.3uqxxrunlr.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\utilities\functions.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3uqxxrunlr"},{"Name":"integrity","Value":"sha256-G7OB7AbpJKhFRz8VSYxCS6o28a8\u002BFFvS6DgSj/A6Kks="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/utilities/functions.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"7915"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022G7OB7AbpJKhFRz8VSYxCS6o28a8\u002BFFvS6DgSj/A6Kks=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/utilities/functions.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\utilities\functions.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-G7OB7AbpJKhFRz8VSYxCS6o28a8\u002BFFvS6DgSj/A6Kks="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"7915"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022G7OB7AbpJKhFRz8VSYxCS6o28a8\u002BFFvS6DgSj/A6Kks=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/utilities/initial-variables.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\utilities\initial-variables.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-aiC1C7tFsinPYYrOFVSs00pVQGC4wyoWkA2zbSpq76U="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"3447"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022aiC1C7tFsinPYYrOFVSs00pVQGC4wyoWkA2zbSpq76U=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/utilities/initial-variables.uyn1ws6phb.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\utilities\initial-variables.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uyn1ws6phb"},{"Name":"integrity","Value":"sha256-aiC1C7tFsinPYYrOFVSs00pVQGC4wyoWkA2zbSpq76U="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/utilities/initial-variables.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3447"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022aiC1C7tFsinPYYrOFVSs00pVQGC4wyoWkA2zbSpq76U=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/utilities/mixins.s2g32wme18.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\utilities\mixins.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"s2g32wme18"},{"Name":"integrity","Value":"sha256-JBY\u002BKEI9vK15BO48\u002BeKKHpKBkEAhjH2nXHVPNas0tec="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/utilities/mixins.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8936"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022JBY\u002BKEI9vK15BO48\u002BeKKHpKBkEAhjH2nXHVPNas0tec=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/utilities/mixins.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\utilities\mixins.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-JBY\u002BKEI9vK15BO48\u002BeKKHpKBkEAhjH2nXHVPNas0tec="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"8936"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022JBY\u002BKEI9vK15BO48\u002BeKKHpKBkEAhjH2nXHVPNas0tec=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/utilities/_index.484yp31h1d.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\utilities\_index.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"484yp31h1d"},{"Name":"integrity","Value":"sha256-HMEQuAKM0oe1WW\u002BOGv8QfFiXatzBNMliChh7\u002ByRbCrs="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/utilities/_index.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"144"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022HMEQuAKM0oe1WW\u002BOGv8QfFiXatzBNMliChh7\u002ByRbCrs=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/utilities/_index.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\utilities\_index.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-HMEQuAKM0oe1WW\u002BOGv8QfFiXatzBNMliChh7\u002ByRbCrs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"144"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022HMEQuAKM0oe1WW\u002BOGv8QfFiXatzBNMliChh7\u002ByRbCrs=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/_index.nn3xt8ywf8.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\_index.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"nn3xt8ywf8"},{"Name":"integrity","Value":"sha256-PfIkzDa9UFfPZVZ8tCKO9n6ypS/KpqGG/fMwQPcdJ0w="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/sass/_index.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"201"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022PfIkzDa9UFfPZVZ8tCKO9n6ypS/KpqGG/fMwQPcdJ0w=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/sass/_index.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\sass\_index.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-PfIkzDa9UFfPZVZ8tCKO9n6ypS/KpqGG/fMwQPcdJ0w="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"201"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022PfIkzDa9UFfPZVZ8tCKO9n6ypS/KpqGG/fMwQPcdJ0w=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/versions/bulma-no-dark-mode.oyjhrwdjvd.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\versions\bulma-no-dark-mode.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"oyjhrwdjvd"},{"Name":"integrity","Value":"sha256-UIoKSG\u002B5JBFWt0DbMlmelxwnCRekrLbM8KDEr920kU8="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/versions/bulma-no-dark-mode.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"466"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022UIoKSG\u002B5JBFWt0DbMlmelxwnCRekrLbM8KDEr920kU8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/versions/bulma-no-dark-mode.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\versions\bulma-no-dark-mode.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-UIoKSG\u002B5JBFWt0DbMlmelxwnCRekrLbM8KDEr920kU8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"466"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022UIoKSG\u002B5JBFWt0DbMlmelxwnCRekrLbM8KDEr920kU8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/versions/bulma-no-helpers-prefixed.pqpp2vzk42.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\versions\bulma-no-helpers-prefixed.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pqpp2vzk42"},{"Name":"integrity","Value":"sha256-b2N4cFUGt8eHH3eCFIQmuWzK1EAQrY9oLTAov71\u002BhYA="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/versions/bulma-no-helpers-prefixed.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"366"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022b2N4cFUGt8eHH3eCFIQmuWzK1EAQrY9oLTAov71\u002BhYA=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/versions/bulma-no-helpers-prefixed.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\versions\bulma-no-helpers-prefixed.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-b2N4cFUGt8eHH3eCFIQmuWzK1EAQrY9oLTAov71\u002BhYA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"366"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022b2N4cFUGt8eHH3eCFIQmuWzK1EAQrY9oLTAov71\u002BhYA=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/versions/bulma-no-helpers.j00lqyjold.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\versions\bulma-no-helpers.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"j00lqyjold"},{"Name":"integrity","Value":"sha256-rbrPNvMxccfP/am/1\u002BuaqErXPv3nIT3PBGxjau/whYQ="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/versions/bulma-no-helpers.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"335"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022rbrPNvMxccfP/am/1\u002BuaqErXPv3nIT3PBGxjau/whYQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/versions/bulma-no-helpers.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\versions\bulma-no-helpers.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-rbrPNvMxccfP/am/1\u002BuaqErXPv3nIT3PBGxjau/whYQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"335"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022rbrPNvMxccfP/am/1\u002BuaqErXPv3nIT3PBGxjau/whYQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/versions/bulma-prefixed.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\versions\bulma-prefixed.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-u1ZQ1SitM3FdVnZkBxLJdxzPQf5BphF9Ovqap2/L/0k="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"133"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022u1ZQ1SitM3FdVnZkBxLJdxzPQf5BphF9Ovqap2/L/0k=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/bulma/versions/bulma-prefixed.vbxweeqy9a.scss">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bulma\versions\bulma-prefixed.scss'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vbxweeqy9a"},{"Name":"integrity","Value":"sha256-u1ZQ1SitM3FdVnZkBxLJdxzPQf5BphF9Ovqap2/L/0k="},{"Name":"label","Value":"_content/EMPMANAGE/lib/bulma/versions/bulma-prefixed.scss"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"133"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022u1ZQ1SitM3FdVnZkBxLJdxzPQf5BphF9Ovqap2/L/0k=\u0022"},{"Name":"Last-Modified","Value":"Thu, 26 Jun 2025 09:01:37 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/jquery-validation/dist/additional-methods.ay5nd8zt9x.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation\dist\additional-methods.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ay5nd8zt9x"},{"Name":"integrity","Value":"sha256-4jrcLBsi0Ugm8iLKdqDsAyaCDjkscYZdoGuNH/zqs4E="},{"Name":"label","Value":"_content/EMPMANAGE/lib/jquery-validation/dist/additional-methods.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"52977"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00224jrcLBsi0Ugm8iLKdqDsAyaCDjkscYZdoGuNH/zqs4E=\u0022"},{"Name":"Last-Modified","Value":"Wed, 25 Jun 2025 11:32:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/jquery-validation/dist/additional-methods.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation\dist\additional-methods.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-4jrcLBsi0Ugm8iLKdqDsAyaCDjkscYZdoGuNH/zqs4E="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"52977"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00224jrcLBsi0Ugm8iLKdqDsAyaCDjkscYZdoGuNH/zqs4E=\u0022"},{"Name":"Last-Modified","Value":"Wed, 25 Jun 2025 11:32:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/jquery-validation/dist/additional-methods.min.9oaff4kq20.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation\dist\additional-methods.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9oaff4kq20"},{"Name":"integrity","Value":"sha256-N11IyJpHTgDcSCb3AfX4VrBnpGQeem1NoNzzgcXVyCc="},{"Name":"label","Value":"_content/EMPMANAGE/lib/jquery-validation/dist/additional-methods.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"22177"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022N11IyJpHTgDcSCb3AfX4VrBnpGQeem1NoNzzgcXVyCc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 25 Jun 2025 11:32:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/jquery-validation/dist/additional-methods.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation\dist\additional-methods.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-N11IyJpHTgDcSCb3AfX4VrBnpGQeem1NoNzzgcXVyCc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"22177"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022N11IyJpHTgDcSCb3AfX4VrBnpGQeem1NoNzzgcXVyCc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 25 Jun 2025 11:32:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/jquery-validation/dist/jquery.validate.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation\dist\jquery.validate.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-m0l81WDPiG7CcG7CDsTuZzvcGvyFmrQY5DLIxx3aRGw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"51171"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022m0l81WDPiG7CcG7CDsTuZzvcGvyFmrQY5DLIxx3aRGw=\u0022"},{"Name":"Last-Modified","Value":"Wed, 25 Jun 2025 11:32:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/jquery-validation/dist/jquery.validate.min.b7iojwaux1.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation\dist\jquery.validate.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"b7iojwaux1"},{"Name":"integrity","Value":"sha256-JwUksNJ6/R07ZiLRoXbGeNrtlFZMFDKX4hemPiHOmCA="},{"Name":"label","Value":"_content/EMPMANAGE/lib/jquery-validation/dist/jquery.validate.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"24601"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022JwUksNJ6/R07ZiLRoXbGeNrtlFZMFDKX4hemPiHOmCA=\u0022"},{"Name":"Last-Modified","Value":"Wed, 25 Jun 2025 11:32:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/jquery-validation/dist/jquery.validate.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation\dist\jquery.validate.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-JwUksNJ6/R07ZiLRoXbGeNrtlFZMFDKX4hemPiHOmCA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"24601"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022JwUksNJ6/R07ZiLRoXbGeNrtlFZMFDKX4hemPiHOmCA=\u0022"},{"Name":"Last-Modified","Value":"Wed, 25 Jun 2025 11:32:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/jquery-validation/dist/jquery.validate.pzqfkb6aqo.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation\dist\jquery.validate.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pzqfkb6aqo"},{"Name":"integrity","Value":"sha256-m0l81WDPiG7CcG7CDsTuZzvcGvyFmrQY5DLIxx3aRGw="},{"Name":"label","Value":"_content/EMPMANAGE/lib/jquery-validation/dist/jquery.validate.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"51171"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022m0l81WDPiG7CcG7CDsTuZzvcGvyFmrQY5DLIxx3aRGw=\u0022"},{"Name":"Last-Modified","Value":"Wed, 25 Jun 2025 11:32:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/jquery-validation/LICENSE.md">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation\LICENSE.md'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1117"},{"Name":"Content-Type","Value":"text/markdown"},{"Name":"ETag","Value":"\u0022geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw=\u0022"},{"Name":"Last-Modified","Value":"Wed, 25 Jun 2025 11:32:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/EMPMANAGE/lib/jquery-validation/LICENSE.x0q3zqp4vz.md">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\jquery-validation\LICENSE.md'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"x0q3zqp4vz"},{"Name":"integrity","Value":"sha256-geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw="},{"Name":"label","Value":"_content/EMPMANAGE/lib/jquery-validation/LICENSE.md"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1117"},{"Name":"Content-Type","Value":"text/markdown"},{"Name":"ETag","Value":"\u0022geHEkw/WGPdaHQMRq5HuNY9snliNzU/y2OW8ycnhGXw=\u0022"},{"Name":"Last-Modified","Value":"Wed, 25 Jun 2025 11:32:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

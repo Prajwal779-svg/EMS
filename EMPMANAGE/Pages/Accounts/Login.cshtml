@@ -1,0 +1,42 @@
+﻿@page
+@model EMPMANAGE.Pages.Accounts.LoginModel
+@{
+}
+<h1 class="title has-text-centered">Login</h1>
+
+
+
+<div class="columns ">
+    <div class="column is-6">
+        <form method="post">
+
+            <div class="field">
+                <p class="control">
+                    <label class="label" asp-for="emp.Email">Email:</label>
+                    <input class="input" asp-for="emp.Email" />
+                </p>
+                <span class="help is-danger" asp-validation-for="emp.Email"></span>
+
+            </div>
+            <div class="field">
+                <p class="control">
+                    <label class="label" asp-for="emp.Password">Password</label>
+                    <input class="input" asp-for="emp.Password" />
+                </p>
+                <span class="help is-danger" asp-validation-for="emp.Password"></span>
+            </div>
+            <div class="field">
+                <p class="control">
+                    <label class="label" asp-for="emp.RememberMe">
+                        <input class="input" asp-for="emp.Password" />
+                        @Html.DisplayNameFor(m => m.emp.RememberMe)
+                    </label>
+                </p>
+
+            </div>
+            <div class="field">
+                <button class="button is-success" type="submit">Login</button>
+            </div>
+        </form>
+    </div>
+</div>
