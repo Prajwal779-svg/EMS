@@ -24,7 +24,7 @@ The solution is organized into four main layers:
   - Stored procedure support (if applicable)
 
 ### 🎯 UI
-- Built with **ASP.NET Core Web API** (or Console App)
+- Built with **ASP.NET Core Web App** (or Console App)
 - Handles HTTP requests or user input
 - Invokes application services
 
